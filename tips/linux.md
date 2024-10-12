@@ -11,12 +11,14 @@
 
 # readコマンドで受け取った文字列をsudoのパスワード認証に使う方法
 
+下記の方法だと.bash_historyにパスワードの情報が残らない。
+
 ```console
 $ bash
 $ read -sp "Please input your password: " _password; echo -e
 $ echo ${_password}  |  sudo -S -k コマンド
 ```
-この方法だと.bash_historyにパスワードの情報が残らない。
+
 [TOPへ戻る](#目次)
 
 
