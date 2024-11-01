@@ -37,8 +37,8 @@ my %hash = (
         'key_2_1' => '2_1',
         'key_2_2' => '2_2',
         'key_2_3' => '2_3',
-    },↲
-);↲
+    },
+);
 
 # @see https://metacpan.org/pod/Data::Dumper
 $Data::Dumper::Terse  = 1;
