@@ -1,6 +1,11 @@
 # uv
 
+## はじめに
+
+本記事はv0.8.22のときの情報をもとにして書かれています。
+
 ## uvとは？
+
 Rust製のPython用package & project manager。<br>
 動きが高速。<br>
 このツール1つでpip, pip-tools, pipx, poetry, pyenv, twine, virtualenvなどの置き換えができる。<br>
@@ -29,8 +34,7 @@ uv init uv-sandbox
 cd $_
 uv add ruff --dev
 # uv add ruff にすると他のパッケージマネージャーと同様にPROD用の依存関係に追加される
-uv remove ruff
-# --dev でaddしたパッケージもオプションを付けなくてもこれで消える
+uv remove ruff --group dev
 ```
 
 ## How to install packages from lock file.
@@ -52,16 +56,133 @@ uv sync --prod
 ```
 
 
-## How to install packages as a tool
+## How to install/uninstall packages as a tool
 
 ```bash
 uv tool install ruff
 ruff --version
+
+uv tool uninstall ruff
 ```
 
 ### `uv add` vs `uv tool install`
 
 | 項目       | `uv add <pkg>`      | `uv tool install <tool>` |
-| -------- | ------------------- | ------------------------ |
-| lock管理 | `uv.lock` に記録       | 専用ツール環境で管理（lockには記録されない）<br>デフォルトのツールディレクトリ：`~/.local/share/uv/tools` |
-| 影響範囲   | プロジェクト内             | 複数プロジェクト横断可能             |
+| ---------- | ------------------- | ------------------------ |
+| lock管理   | `uv.lock` に記録    | 専用ツール環境で管理（lockには記録されない）<br>デフォルトのツールディレクトリ：`~/.local/share/uv/tools` |
+| 影響範囲   | プロジェクト内      | PATHが通るので、プロジェクト外でも使用可能 |
+
+
+```bash
+# install後
+$ ls -la ~/.local/share/uv/tools/
+合計 16
+drwxrwxr-x 3 ibukichi ibukichi 4096  9月 28 12:45 .
+drwxrwxr-x 3 ibukichi ibukichi 4096  9月 28 12:45 ..
+-rw-rw-r-- 1 ibukichi ibukichi    1  9月 28 12:45 .gitignore
+-rwxrwxrwx 1 ibukichi ibukichi    0  9月 28 12:45 .lock
+drwxrwxr-x 4 ibukichi ibukichi 4096  9月 28 12:45 ruff
+
+$ ls -la ~/.local/bin/
+合計 51824
+drwxrwxr-x 2 ibukichi ibukichi     4096  9月 28 12:45 .
+drwx------ 5 ibukichi ibukichi     4096  9月 20 17:18 ..
+-rw-rw-r-- 1 ibukichi ibukichi      328  9月 20 17:18 env
+-rw-rw-r-- 1 ibukichi ibukichi      165  9月 20 17:18 env.fish
+lrwxrwxrwx 1 ibukichi ibukichi       50  9月 28 12:45 ruff -> /home/ibukichi/.local/share/uv/tools/ruff/bin/ruff
+-rwxr-xr-x 1 ibukichi ibukichi 52686688  9月 24 04:55 uv
+-rwxr-xr-x 1 ibukichi ibukichi   362448  9月 24 04:55 uvx
+
+# uninstall後
+$ ls -la ~/.local/bin/
+合計 51824
+drwxrwxr-x 2 ibukichi ibukichi     4096  9月 28 13:03 .
+drwx------ 5 ibukichi ibukichi     4096  9月 20 17:18 ..
+-rw-rw-r-- 1 ibukichi ibukichi      328  9月 20 17:18 env
+-rw-rw-r-- 1 ibukichi ibukichi      165  9月 20 17:18 env.fish
+-rwxr-xr-x 1 ibukichi ibukichi 52686688  9月 24 04:55 uv
+-rwxr-xr-x 1 ibukichi ibukichi   362448  9月 24 04:55 uvx
+```
+
+## Install/Uninstall Python versions
+
+```bash
+# install可能なPythonのリスト
+$ uv python list
+cpython-3.14.0rc3-linux-x86_64-gnu                 <download available>
+cpython-3.14.0rc3+freethreaded-linux-x86_64-gnu    <download available>
+cpython-3.13.7-linux-x86_64-gnu                    <download available>
+cpython-3.13.7+freethreaded-linux-x86_64-gnu       <download available>
+cpython-3.12.11-linux-x86_64-gnu                   <download available>
+cpython-3.12.3-linux-x86_64-gnu                    /usr/bin/python3.12
+cpython-3.12.3-linux-x86_64-gnu                    /usr/bin/python3 -> python3.12
+cpython-3.11.13-linux-x86_64-gnu                   <download available>
+cpython-3.10.18-linux-x86_64-gnu                   <download available>
+cpython-3.9.23-linux-x86_64-gnu                    <download available>
+cpython-3.8.20-linux-x86_64-gnu                    <download available>
+pypy-3.11.13-linux-x86_64-gnu                      <download available>
+pypy-3.10.16-linux-x86_64-gnu                      <download available>
+pypy-3.9.19-linux-x86_64-gnu                       <download available>
+pypy-3.8.16-linux-x86_64-gnu                       <download available>
+graalpy-3.12.0-linux-x86_64-gnu                    <download available>
+graalpy-3.11.0-linux-x86_64-gnu                    <download available>
+graalpy-3.10.0-linux-x86_64-gnu                    <download available>
+graalpy-3.8.5-linux-x86_64-gnu                     <download available>
+
+# install後
+$ uv python install 3.13
+Installed Python 3.13.7 in 2.14s
+ + cpython-3.13.7-linux-x86_64-gnu (python3.13)
+
+$ ls -la ~/.local/share/uv/python/
+合計 20
+drwxrwxr-x 4 ibukichi ibukichi 4096  9月 28 13:58 .
+drwxrwxr-x 3 ibukichi ibukichi 4096  9月 28 13:53 ..
+-rw-rw-r-- 1 ibukichi ibukichi    1  9月 28 13:53 .gitignore
+-rwxrwxrwx 1 ibukichi ibukichi    0  9月 28 13:53 .lock
+drwxrwxr-x 2 ibukichi ibukichi 4096  9月 28 13:58 .temp
+drwxrwxr-x 6 ibukichi ibukichi 4096  9月 28 13:58 cpython-3.13.7-linux-x86_64-gnu
+
+$ ls -la ~/.local/bin/
+合計 51828
+drwxrwxr-x 2 ibukichi ibukichi     4096  9月 28 13:58 .
+drwx------ 5 ibukichi ibukichi     4096  9月 20 17:18 ..
+-rw-rw-r-- 1 ibukichi ibukichi      328  9月 20 17:18 env
+-rw-rw-r-- 1 ibukichi ibukichi      165  9月 20 17:18 env.fish
+lrwxrwxrwx 1 ibukichi ibukichi       84  9月 28 13:58 python3.13 -> /home/ibukichi/.local/share/uv/python/cpython-3.13.7-linux-x86_64-gnu/bin/python3.13
+-rwxr-xr-x 1 ibukichi ibukichi 52686688  9月 24 04:55 uv
+-rwxr-xr-x 1 ibukichi ibukichi   362448  9月 24 04:55 uvx
+
+$ whereis python3 python3.13
+python3: /usr/bin/python3 /usr/lib/python3 /etc/python3 /usr/share/python3 /usr/share/man/man1/python3.1.gz
+python3.13: /home/ibukichi/.local/bin/python3.13
+# python3はUbuntuにデフォルトでインストールされているもの、Python3.13はuvでインストールしたもの
+
+# uninstall後
+$ uv python uninstall 3.13
+Searching for Python versions matching: Python 3.13
+Uninstalled Python 3.13.7 in 68ms
+ - cpython-3.13.7-linux-x86_64-gnu (python3.13)
+
+$ ls -la ~/.local/share/uv/python/
+合計 16
+drwxrwxr-x 3 ibukichi ibukichi 4096  9月 28 14:07 .
+drwxrwxr-x 3 ibukichi ibukichi 4096  9月 28 13:53 ..
+-rw-rw-r-- 1 ibukichi ibukichi    1  9月 28 13:53 .gitignore
+-rwxrwxrwx 1 ibukichi ibukichi    0  9月 28 13:53 .lock
+drwxrwxr-x 2 ibukichi ibukichi 4096  9月 28 13:58 .temp
+
+$ ls -la ~/.local/bin/
+合計 51824
+drwxrwxr-x 2 ibukichi ibukichi     4096  9月 28 14:07 .
+drwx------ 5 ibukichi ibukichi     4096  9月 20 17:18 ..
+-rw-rw-r-- 1 ibukichi ibukichi      328  9月 20 17:18 env
+-rw-rw-r-- 1 ibukichi ibukichi      165  9月 20 17:18 env.fish
+-rwxr-xr-x 1 ibukichi ibukichi 52686688  9月 24 04:55 uv
+-rwxr-xr-x 1 ibukichi ibukichi   362448  9月 24 04:55 uvx
+
+$ whereis python3 python3.13
+python3: /usr/bin/python3 /usr/lib/python3 /etc/python3 /usr/share/python3 /usr/share/man/man1/python3.1.gz
+python3.13:
+```
+
