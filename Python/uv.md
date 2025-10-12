@@ -186,3 +186,28 @@ python3: /usr/bin/python3 /usr/lib/python3 /etc/python3 /usr/share/python3 /usr/
 python3.13:
 ```
 
+## upgrade/uninstall python ver
+
+```bash
+$ uv python upgrade 3.13
+warning: `uv python upgrade` is experimental and may change without warning. Pass `--preview-features python-upgrade` to disable this warning
+Installed Python 3.13.8 in 2.16s
+ + cpython-3.13.8-linux-x86_64-gnu (python3.13)
+
+$ uv python list 3.13
+cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/bin/python3.13 -> /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
+cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
+cpython-3.13.7-linux-x86_64-gnu    /home/ibukichi/.local/share/uv/python/cpython-3.13.7-linux-x86_64-gnu/bin/python3.13
+
+$ uv python uninstall 3.13.7
+Searching for Python versions matching: Python 3.13.7
+Uninstalled Python 3.13.7 in 131ms
+ - cpython-3.13.7-linux-x86_64-gnu
+
+$ uv python list 3.13
+cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/bin/python3.13 -> /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
+cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
+```
+
+
+
