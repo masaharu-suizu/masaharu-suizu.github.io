@@ -1,10 +1,8 @@
-# uv
-
-## はじめに
+# はじめに
 
 本記事はv0.8.22のときの情報をもとにして書かれています。
 
-## uvとは？
+# uvとは？
 
 Rust製のPython用package & project manager。<br>
 動きが高速。<br>
@@ -15,29 +13,44 @@ Rust製のPython用package & project manager。<br>
 
 [Docs](https://docs.astral.sh/uv/)
 
-## How to install uv
+# How to install uv
 
 ```
 $ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-## How to update
+# How to update uv
 
 ```
 $ uv self update
 ```
 
-## How to install/uninstall packages in the project
+# Create project
 
 ```bash
 uv init uv-sandbox
-cd $_
+```
+
+# install/uninstall packages
+
+```bash
+uv add ruff
+uv remove ruff
+```
+
+```bash
+# DEV環境とPROD環境でインストールするパッケージを分けたい場合
 uv add ruff --dev
-# uv add ruff にすると他のパッケージマネージャーと同様にPROD用の依存関係に追加される
 uv remove ruff --group dev
 ```
 
-## How to install packages from lock file.
+# confirm dependencies
+
+```bash
+uv tree
+```
+
+# How to install packages from lock file.
 
 ```bash
 # DEV
@@ -56,7 +69,7 @@ uv sync --prod
 ```
 
 
-## How to install/uninstall packages as a tool
+# How to install/uninstall packages as a tool
 
 ```bash
 uv tool install ruff
@@ -65,7 +78,7 @@ ruff --version
 uv tool uninstall ruff
 ```
 
-### `uv add` vs `uv tool install`
+## `uv add` vs `uv tool install`
 
 | 項目       | `uv add <pkg>`      | `uv tool install <tool>` |
 | ---------- | ------------------- | ------------------------ |
@@ -104,7 +117,9 @@ drwx------ 5 ibukichi ibukichi     4096  9月 20 17:18 ..
 -rwxr-xr-x 1 ibukichi ibukichi   362448  9月 24 04:55 uvx
 ```
 
-## Install/Uninstall Python versions
+# Python ver management
+
+## Install/Uninstall Python
 
 ```bash
 # install可能なPythonのリスト
@@ -186,7 +201,7 @@ python3: /usr/bin/python3 /usr/lib/python3 /etc/python3 /usr/share/python3 /usr/
 python3.13:
 ```
 
-## upgrade/uninstall python ver
+## Upgrade installed Python
 
 ```bash
 $ uv python upgrade 3.13
@@ -194,6 +209,15 @@ warning: `uv python upgrade` is experimental and may change without warning. Pas
 Installed Python 3.13.8 in 2.16s
  + cpython-3.13.8-linux-x86_64-gnu (python3.13)
 
+$ uv python list 3.13
+cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/bin/python3.13 -> /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
+cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
+cpython-3.13.7-linux-x86_64-gnu    /home/ibukichi/.local/share/uv/python/cpython-3.13.7-linux-x86_64-gnu/bin/python3.13
+```
+
+## Remove installed Python
+
+```bash
 $ uv python list 3.13
 cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/bin/python3.13 -> /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
 cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
@@ -209,5 +233,14 @@ cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/bin/python3.13 -> /home
 cpython-3.13.8-linux-x86_64-gnu    /home/ibukichi/.local/share/uv/python/cpython-3.13.8-linux-x86_64-gnu/bin/python3.13
 ```
 
+## Pin Python ver
 
+```bash
+uv python pin 3.13
+```
 
+## Run script sepecific Python ver
+
+```bash
+uv run --python 3.13 hoge.py
+```
