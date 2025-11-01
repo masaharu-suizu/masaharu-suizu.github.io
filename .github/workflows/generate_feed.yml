@@ -30,12 +30,14 @@ jobs:
         run: |
           uv run python generate_feed.py
 
-      # Commit and push the updated feed
+      # Commit and push RSS feed
       - name: Commit and push RSS feed
+        env:
+          GH_TOKEN: ${{ secrets.TOKEN_FOR_WRITE }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github_notifications.atom
           git commit -m "Update RSS feed [skip ci]" || echo "No changes to commit"
-          git push origin main
+          git push https://x-access-token:${GH_TOKEN}@github.com/masaharu-suizu/masaharu-suizu.github.io.git main
 
