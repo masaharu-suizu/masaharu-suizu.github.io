@@ -1,5 +1,8 @@
 name: Generate GitHub Notifications RSS
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 * * * *'   # 毎時実行（UTC）
