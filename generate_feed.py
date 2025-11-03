@@ -13,34 +13,38 @@ headers = {
     "Accept": "application/vnd.github+json"
 }
 
-url = "https://api.github.com/notifications"
-
-response = requests.get(url, headers=headers)
-
-if response.status_code != 200:
+api_response = requests.get("https://api.github.com/notifications", headers=headers)
+if api_response.status_code != 200:
     raise RuntimeError(f"GitHub API Error: {res.status_code} - {res.text}")
 
 entries = []
 
-notifications = response.json()
+notifications = api_response.json()
 for notification in notifications:
     repository = notification["repository"]
     subject    = notification["subject"]
     updated    = notification["updated_at"]
 
-    repo_name = repository["name"]
-    repo_url  = subject["url"]
-    title     = subject["title"]
-    _type     = subject["type"]
+    _name    = repository["full_name"]
+    _summary = repository["description"]
+    _url     = subject["url"]
+    _title   = subject["title"]
+    _type    = subject["type"]
+    _link    = ""
 
     if _type != "Release":
         continue
 
+    response = requests.get(_url)
+    if response.status_code == 200:
+        response_json = response.json()
+        _link         = response_json["html_url"]
+
     entries.append({
-        "title": f"[{repo_name}] {title}",
-        "link": repo_url,
+        "title": f"[{_name}] {_title}",
+        "link": _link,
         "updated": updated,
-        "summary": ""
+        "summary": _summary
     })
 
 fg = FeedGenerator()
