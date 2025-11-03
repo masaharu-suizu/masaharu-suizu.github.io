@@ -31,6 +31,10 @@ for notification in notifications:
     repo_name = repository["name"]
     repo_url  = subject["url"]
     title     = subject["title"]
+    _type     = subject["type"]
+
+    if _type != "Release":
+        continue
 
     entries.append({
         "title": f"[{repo_name}] {title}",
