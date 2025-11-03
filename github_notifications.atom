@@ -2,14 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>GitHub Notifications [masaharu-suizu]</title>
-  <updated>2025-11-03T07:18:27.931104+00:00</updated>
+  <updated>2025-11-03T08:26:33.067577+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.120.4</id>
-    <title>[fastapi/fastapi] 0.120.4</title>
-    <updated>2025-10-31T18:37:03+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.120.4"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
 </feed>
