@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>GitHub Notifications [masaharu-suizu]</title>
-  <updated>2025-11-03T06:29:14.082460+00:00</updated>
+  <updated>2025-11-03T07:18:27.931104+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.120.2</id>
-    <title>[fastapi/fastapi] 0.120.2</title>
-    <updated>2025-10-29T13:47:16+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.120.2"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.120.3</id>
-    <title>[fastapi/fastapi] 0.120.3</title>
-    <updated>2025-10-30T20:41:25+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.120.3"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/uv/releases/tag/0.9.7</id>
-    <title>[astral-sh/uv] 0.9.7</title>
-    <updated>2025-10-30T23:02:46+00:00</updated>
-    <link href="https://github.com/astral-sh/uv/releases/tag/0.9.7"/>
-    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
-  </entry>
   <entry>
     <id>https://github.com/fastapi/fastapi/releases/tag/0.120.4</id>
     <title>[fastapi/fastapi] 0.120.4</title>
