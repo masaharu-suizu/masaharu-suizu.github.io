@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>My GitHub Notifications</title>
-  <updated>2025-11-01T15:15:19.551784+00:00</updated>
+  <updated>2025-11-03T05:19:06.634471+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -17,20 +17,6 @@
     <title>[fastapi] 0.120.3</title>
     <updated>2025-10-30T20:41:25+00:00</updated>
     <link href="https://api.github.com/repos/fastapi/fastapi/releases/258618124"/>
-    <summary/>
-  </entry>
-  <entry>
-    <id>https://api.github.com/repos/astral-sh/uv/releases/258646100</id>
-    <title>[uv] 0.9.7</title>
-    <updated>2025-10-30T23:02:46+00:00</updated>
-    <link href="https://api.github.com/repos/astral-sh/uv/releases/258646100"/>
-    <summary/>
-  </entry>
-  <entry>
-    <id>https://api.github.com/repos/fastapi/fastapi/releases/258894623</id>
-    <title>[fastapi] 0.120.4</title>
-    <updated>2025-10-31T18:37:03+00:00</updated>
-    <link href="https://api.github.com/repos/fastapi/fastapi/releases/258894623"/>
     <summary/>
   </entry>
 </feed>
