@@ -2,14 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>GitHub Notifications [masaharu-suizu]</title>
-  <updated>2025-11-05T01:25:10.460141+00:00</updated>
+  <updated>2025-11-05T03:10:28.175335+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/laravel/laravel/releases/tag/v12.10.0</id>
-    <title>[laravel/laravel] v12.10.0</title>
-    <updated>2025-11-04T15:49:55+00:00</updated>
-    <link href="https://github.com/laravel/laravel/releases/tag/v12.10.0"/>
-    <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
-  </entry>
 </feed>
