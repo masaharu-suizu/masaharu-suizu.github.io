@@ -49,7 +49,7 @@ for notification in notifications:
 
 fg = FeedGenerator()
 fg.id('https://github.com/notifications')
-fg.title('GitHub Notifications [masaharu-suizu]')
+fg.title('Tracking OSS Releases [masaharu-suizu]')
 fg.link(href='https://github.com/notifications', rel='alternate')
 fg.language('en')
 
