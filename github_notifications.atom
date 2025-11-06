@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
-  <title>GitHub Notifications [masaharu-suizu]</title>
-  <updated>2025-11-06T05:18:58.195643+00:00</updated>
+  <title>Tracking OSS Releases [masaharu-suizu]</title>
+  <updated>2025-11-06T06:28:54.579307+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
 </feed>
