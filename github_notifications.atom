@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-14T05:18:42.377175+00:00</updated>
+  <updated>2025-11-14T06:29:02.509691+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v6.4.29</id>
+    <title>[symfony/symfony] v6.4.29</title>
+    <updated>2025-11-12T11:32:28+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v6.4.29"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v7.3.7</id>
+    <title>[symfony/symfony] v7.3.7</title>
+    <updated>2025-11-12T11:50:12+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v7.3.7"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
   <entry>
     <id>https://github.com/laravel/laravel/releases/tag/v12.10.1</id>
     <title>[laravel/laravel] v12.10.1</title>
@@ -73,27 +87,6 @@
     <title>[openai/codex] 0.58.0-alpha.10</title>
     <updated>2025-11-13T16:39:48+00:00</updated>
     <link href="https://github.com/openai/codex/releases/tag/rust-v0.58.0-alpha.10"/>
-    <summary>Lightweight coding agent that runs in your terminal</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.121.2</id>
-    <title>[fastapi/fastapi] 0.121.2</title>
-    <updated>2025-11-13T17:05:49+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.121.2"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/openai/codex/releases/tag/rust-v0.58.0</id>
-    <title>[openai/codex] 0.58.0</title>
-    <updated>2025-11-13T18:04:21+00:00</updated>
-    <link href="https://github.com/openai/codex/releases/tag/rust-v0.58.0"/>
-    <summary>Lightweight coding agent that runs in your terminal</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/openai/codex/releases/tag/rust-v0.59.0-alpha.1</id>
-    <title>[openai/codex] 0.59.0-alpha.1</title>
-    <updated>2025-11-13T23:35:14+00:00</updated>
-    <link href="https://github.com/openai/codex/releases/tag/rust-v0.59.0-alpha.1"/>
     <summary>Lightweight coding agent that runs in your terminal</summary>
   </entry>
 </feed>
