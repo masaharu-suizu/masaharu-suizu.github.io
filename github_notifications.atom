@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-14T17:16:54.504855+00:00</updated>
+  <updated>2025-11-14T18:26:49.615822+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/laravel/laravel/releases/tag/v12.10.1</id>
-    <title>[laravel/laravel] v12.10.1</title>
-    <updated>2025-11-12T17:09:10+00:00</updated>
-    <link href="https://github.com/laravel/laravel/releases/tag/v12.10.1"/>
-    <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
-  </entry>
   <entry>
     <id>https://github.com/openai/codex/releases/tag/rust-v0.58.0-alpha.5</id>
     <title>[openai/codex] 0.58.0-alpha.5</title>
