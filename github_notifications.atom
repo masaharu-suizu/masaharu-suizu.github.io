@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-17T05:19:37.159380+00:00</updated>
+  <updated>2025-11-17T06:29:29.493062+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/symfony/symfony/releases/tag/v5.4.50</id>
-    <title>[symfony/symfony] v5.4.50</title>
-    <updated>2025-11-12T11:19:32+00:00</updated>
-    <link href="https://github.com/symfony/symfony/releases/tag/v5.4.50"/>
-    <summary>The Symfony PHP framework</summary>
-  </entry>
   <entry>
     <id>https://github.com/symfony/symfony/releases/tag/v7.3.7</id>
     <title>[symfony/symfony] v7.3.7</title>
