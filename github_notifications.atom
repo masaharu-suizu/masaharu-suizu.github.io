@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-17T21:17:20.612938+00:00</updated>
+  <updated>2025-11-17T22:17:52.032444+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -25,5 +25,12 @@
     <updated>2025-11-17T17:03:44+00:00</updated>
     <link href="https://github.com/astral-sh/uv/releases/tag/0.9.10"/>
     <summary>An extremely fast Python package and project manager, written in Rust.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/codex/releases/tag/rust-v0.59.0-alpha.6</id>
+    <title>[openai/codex] 0.59.0-alpha.6</title>
+    <updated>2025-11-17T21:44:41+00:00</updated>
+    <link href="https://github.com/openai/codex/releases/tag/rust-v0.59.0-alpha.6"/>
+    <summary>Lightweight coding agent that runs in your terminal</summary>
   </entry>
 </feed>
