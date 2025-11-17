@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-17T11:16:46.098419+00:00</updated>
+  <updated>2025-11-17T12:39:32.381013+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/openai/codex/releases/tag/rust-v0.59.0-alpha.5</id>
-    <title>[openai/codex] 0.59.0-alpha.5</title>
-    <updated>2025-11-15T07:51:37+00:00</updated>
-    <link href="https://github.com/openai/codex/releases/tag/rust-v0.59.0-alpha.5"/>
-    <summary>Lightweight coding agent that runs in your terminal</summary>
-  </entry>
   <entry>
     <id>https://github.com/symfony/symfony/releases/tag/v7.4.0-RC2</id>
     <title>[symfony/symfony] v7.4.0-RC2</title>
