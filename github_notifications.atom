@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-20T18:28:20.745072+00:00</updated>
+  <updated>2025-11-20T19:15:28.494808+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -24,6 +24,13 @@
     <title>[php/php-src] PHP 8.4.15</title>
     <updated>2025-11-20T17:23:00+00:00</updated>
     <link href="https://github.com/php/php-src/releases/tag/php-8.4.15"/>
+    <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.5.0</id>
+    <title>[php/php-src] PHP 8.5.0</title>
+    <updated>2025-11-20T18:58:27+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.5.0"/>
     <summary>The PHP Interpreter</summary>
   </entry>
 </feed>
