@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-21T14:18:21.204867+00:00</updated>
+  <updated>2025-11-21T15:17:23.796428+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -53,5 +53,19 @@
     <updated>2025-11-21T06:41:41+00:00</updated>
     <link href="https://github.com/openai/codex/releases/tag/rust-v0.62.0-alpha.2"/>
     <summary>Lightweight coding agent that runs in your terminal</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v7.4.0-RC3</id>
+    <title>[symfony/symfony] v7.4.0-RC3</title>
+    <updated>2025-11-21T15:00:21+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v7.4.0-RC3"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3</id>
+    <title>[symfony/symfony] v8.0.0-RC3</title>
+    <updated>2025-11-21T15:08:54+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3"/>
+    <summary>The Symfony PHP framework</summary>
   </entry>
 </feed>
