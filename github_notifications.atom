@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-21T19:16:08.379457+00:00</updated>
+  <updated>2025-11-21T20:21:23.282918+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -81,5 +81,12 @@
     <updated>2025-11-21T18:25:39+00:00</updated>
     <link href="https://github.com/openai/codex/releases/tag/rust-v0.63.0"/>
     <summary>Lightweight coding agent that runs in your terminal</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun/releases/tag/bun-v1.3.3</id>
+    <title>[oven-sh/bun] Bun v1.3.3</title>
+    <updated>2025-11-21T19:32:23+00:00</updated>
+    <link href="https://github.com/oven-sh/bun/releases/tag/bun-v1.3.3"/>
+    <summary>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
   </entry>
 </feed>
