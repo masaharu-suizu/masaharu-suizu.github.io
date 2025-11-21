@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-11-20T23:17:28.118014+00:00</updated>
+  <updated>2025-11-21T01:23:56.538224+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -32,5 +32,19 @@
     <updated>2025-11-20T18:58:27+00:00</updated>
     <link href="https://github.com/php/php-src/releases/tag/php-8.5.0"/>
     <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/codex/releases/tag/rust-v0.62.0-alpha.1</id>
+    <title>[openai/codex] 0.62.0-alpha.1</title>
+    <updated>2025-11-20T23:34:38+00:00</updated>
+    <link href="https://github.com/openai/codex/releases/tag/rust-v0.62.0-alpha.1"/>
+    <summary>Lightweight coding agent that runs in your terminal</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv/releases/tag/0.9.11</id>
+    <title>[astral-sh/uv] 0.9.11</title>
+    <updated>2025-11-20T23:46:59+00:00</updated>
+    <link href="https://github.com/astral-sh/uv/releases/tag/0.9.11"/>
+    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
   </entry>
 </feed>
