@@ -1,6 +1,6 @@
 # はじめに
 
-本記事はv0.8.22のときの情報をもとにして書かれています。
+本記事はv0.9.11のときの情報をもとにして書かれています。
 
 # uvとは？
 
@@ -243,4 +243,15 @@ uv python pin 3.13
 
 ```bash
 uv run --python 3.13 hoge.py
+```
+
+
+# Export SBOM
+
+[0.9.11](https://github.com/astral-sh/uv/releases/tag/0.9.11)から[CycloneDXフォーマットのSBOM](https://cyclonedx.org/)を出力できるようになったらしい。
+
+https://docs.astral.sh/uv/guides/export/#cyclonedx-sbom-format
+
+```bash
+uv export --format cyclonedx1.5
 ```
