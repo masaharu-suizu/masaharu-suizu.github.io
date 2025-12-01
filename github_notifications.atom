@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-12-01T09:27:27.254345+00:00</updated>
+  <updated>2025-12-01T10:22:51.899606+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -11,5 +11,12 @@
     <updated>2025-11-30T14:48:45+00:00</updated>
     <link href="https://github.com/fastapi/fastapi/releases/tag/0.123.0"/>
     <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/codex/releases/tag/rust-v0.64.0-alpha.11</id>
+    <title>[openai/codex] 0.64.0-alpha.11</title>
+    <updated>2025-12-01T09:56:19+00:00</updated>
+    <link href="https://github.com/openai/codex/releases/tag/rust-v0.64.0-alpha.11"/>
+    <summary>Lightweight coding agent that runs in your terminal</summary>
   </entry>
 </feed>
