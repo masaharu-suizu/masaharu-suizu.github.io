@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-12-02T05:19:00.932032+00:00</updated>
+  <updated>2025-12-02T06:31:25.987996+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/astral-sh/uv/releases/tag/0.9.14</id>
-    <title>[astral-sh/uv] 0.9.14</title>
-    <updated>2025-12-01T17:25:06+00:00</updated>
-    <link href="https://github.com/astral-sh/uv/releases/tag/0.9.14"/>
-    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
-  </entry>
   <entry>
     <id>https://github.com/openai/codex/releases/tag/rust-v0.64.0-alpha.12</id>
     <title>[openai/codex] 0.64.0-alpha.12</title>
@@ -31,6 +24,13 @@
     <title>[fastapi/fastapi] 0.123.1</title>
     <updated>2025-12-02T04:31:43+00:00</updated>
     <link href="https://github.com/fastapi/fastapi/releases/tag/0.123.1"/>
+    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/fastapi/fastapi/releases/tag/0.123.2</id>
+    <title>[fastapi/fastapi] 0.123.2</title>
+    <updated>2025-12-02T05:32:50+00:00</updated>
+    <link href="https://github.com/fastapi/fastapi/releases/tag/0.123.2"/>
     <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
   </entry>
 </feed>
