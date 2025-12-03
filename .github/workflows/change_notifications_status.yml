@@ -17,7 +17,6 @@ jobs:
       - name: Install uv
         run: |
           curl -LsSf https://astral.sh/uv/install.sh | sh
-          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
 
       # Setup dependencies
       - name: Sync dependencies
