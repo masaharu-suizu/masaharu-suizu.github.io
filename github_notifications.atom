@@ -2,21 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-12-06T07:17:11.006569+00:00</updated>
+  <updated>2025-12-06T08:23:30.913305+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.1.0-canary.15</id>
-    <title>[vercel/next.js] v16.1.0-canary.15</title>
-    <updated>2025-12-05T14:31:06+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.0-canary.15"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.123.10</id>
-    <title>[fastapi/fastapi] 0.123.10</title>
-    <updated>2025-12-05T21:27:38+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.123.10"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
 </feed>
