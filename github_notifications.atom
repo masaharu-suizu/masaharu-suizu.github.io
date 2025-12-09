@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-12-09T03:17:50.089707+00:00</updated>
+  <updated>2025-12-09T04:27:51.843824+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -39,13 +39,6 @@
     <updated>2025-12-08T08:11:34+00:00</updated>
     <link href="https://github.com/symfony/symfony/releases/tag/v8.0.2"/>
     <summary>The Symfony PHP framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.0.8</id>
-    <title>[vercel/next.js] v16.0.8</title>
-    <updated>2025-12-08T20:34:57+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.0.8"/>
-    <summary>The React Framework</summary>
   </entry>
   <entry>
     <id>https://github.com/vercel/next.js/releases/tag/v16.1.0-canary.16</id>
