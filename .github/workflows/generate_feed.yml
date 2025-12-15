@@ -14,25 +14,20 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
-      # Install uv
       - name: Install uv
-        run: |
-          curl -LsSf https://astral.sh/uv/install.sh | sh
+        uses: astral-sh/setup-uv@v7
 
-      # Setup dependencies
       - name: Sync dependencies
         run: uv sync
 
-      # Generate RSS feed
-      - name: Generate RSS feed
+      - name: Run script to generate RSS feed
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: |
           uv run generate_feed.py
 
-      # Commit and push RSS feed
       - name: Commit and push RSS feed
         run: |
           git config user.name "Masaharu Suizu"
