@@ -255,3 +255,7 @@ https://docs.astral.sh/uv/guides/export/#cyclonedx-sbom-format
 ```bash
 uv export --format cyclonedx1.5
 ```
+
+＃　GitHub ActionsでuvをInstallする場合
+
+https://docs.astral.sh/uv/guides/integration/github/
