@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-12-18T19:16:52.835707+00:00</updated>
+  <updated>2025-12-18T20:19:57.582609+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -25,5 +25,26 @@
     <updated>2025-12-18T18:50:01+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.1.0"/>
     <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.5.1</id>
+    <title>[php/php-src] PHP 8.5.1</title>
+    <updated>2025-12-18T20:04:52+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.5.1"/>
+    <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.3.29</id>
+    <title>[php/php-src] PHP 8.3.29</title>
+    <updated>2025-12-18T20:05:50+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.3.29"/>
+    <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.2.30</id>
+    <title>[php/php-src] PHP 8.2.30</title>
+    <updated>2025-12-18T20:06:30+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.2.30"/>
+    <summary>The PHP Interpreter</summary>
   </entry>
 </feed>
