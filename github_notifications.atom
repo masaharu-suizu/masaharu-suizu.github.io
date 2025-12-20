@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2025-12-19T23:18:33.853292+00:00</updated>
+  <updated>2025-12-20T01:25:05.522170+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -13,10 +13,10 @@
     <summary>The React Framework</summary>
   </entry>
   <entry>
-    <id>https://github.com/php/php-src/releases/tag/php-8.1.34</id>
-    <title>[php/php-src] PHP 8.1.34</title>
-    <updated>2025-12-19T17:34:12+00:00</updated>
-    <link href="https://github.com/php/php-src/releases/tag/php-8.1.34"/>
-    <summary>The PHP Interpreter</summary>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.1</id>
+    <title>[vercel/next.js] v16.1.1-canary.1</title>
+    <updated>2025-12-19T23:35:29+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.1"/>
+    <summary>The React Framework</summary>
   </entry>
 </feed>
