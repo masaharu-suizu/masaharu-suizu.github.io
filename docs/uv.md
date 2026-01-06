@@ -117,6 +117,80 @@ drwx------ 5 ibukichi ibukichi     4096  9月 20 17:18 ..
 -rwxr-xr-x 1 ibukichi ibukichi   362448  9月 24 04:55 uvx
 ```
 
+# uv経由でインストールしたパッケージのverをあげる方法
+
+```console
+
+# アップグレード可能なパッケージを確認（ドライラン）
+$ uv sync -U --dry-run
+warning: Ignoring existing virtual environment linked to non-existent Python interpreter: .venv/bin/python3 -> python
+Using CPython 3.14.2
+Would replace project environment at: .venv
+Resolved 10 packages in 270ms
+Would update lockfile at: uv.lock
+Would download 9 packages
+Would install 9 packages
+ + certifi==2026.1.4
+ + charset-normalizer==3.4.4
+ + feedgen==1.0.0
+ + idna==3.11
+ + lxml==6.0.2
+ + python-dateutil==2.9.0.post0
+ + requests==2.32.5
+ + six==1.17.0
+ + urllib3==2.6.2
+
+# 依存関係のツリーと、どのパッケージが古いかを一覧で表示
+$ uv tree --outdated
+warning: Ignoring existing virtual environment linked to non-existent Python interpreter: .venv/bin/python3 -> python
+Using CPython 3.14.2
+Resolved 10 packages in 0.67ms
+github-notification-api v0.1.0
+├── feedgen v1.0.0
+│   ├── lxml v6.0.2
+│   └── python-dateutil v2.9.0.post0
+│       └── six v1.17.0
+└── requests v2.32.5
+    ├── certifi v2025.11.12 (latest: v2026.1.4)
+    ├── charset-normalizer v3.4.4
+    ├── idna v3.11
+    └── urllib3 v2.5.0 (latest: v2.6.2)
+
+# 実際にアップグレードを実行
+$ uv sync -U
+warning: Ignoring existing virtual environment linked to non-existent Python interpreter: .venv/bin/python3 -> python
+Using CPython 3.14.2
+Removed virtual environment at: .venv
+Creating virtual environment at: .venv
+Resolved 10 packages in 76ms
+Prepared 9 packages in 43ms
+Installed 9 packages in 17ms
+ + certifi==2026.1.4
+ + charset-normalizer==3.4.4
+ + feedgen==1.0.0
+ + idna==3.11
+ + lxml==6.0.2
+ + python-dateutil==2.9.0.post0
+ + requests==2.32.5
+ + six==1.17.0
+ + urllib3==2.6.2
+
+# アップグレード後の確認
+$ uv tree --outdated
+Resolved 10 packages in 0.75ms
+github-notification-api v0.1.0
+├── feedgen v1.0.0
+│   ├── lxml v6.0.2
+│   └── python-dateutil v2.9.0.post0
+│       └── six v1.17.0
+└── requests v2.32.5
+    ├── certifi v2026.1.4
+    ├── charset-normalizer v3.4.4
+    ├── idna v3.11
+    └── urllib3 v2.6.2
+```
+
+
 # Python ver management
 
 ## Install/Uninstall Python
