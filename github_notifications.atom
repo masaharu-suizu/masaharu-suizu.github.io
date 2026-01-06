@@ -2,14 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-06T11:18:20.055041+00:00</updated>
+  <updated>2026-01-06T12:42:23.819985+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/astral-sh/uv/releases/tag/0.9.22</id>
-    <title>[astral-sh/uv] 0.9.22</title>
-    <updated>2026-01-06T10:52:21+00:00</updated>
-    <link href="https://github.com/astral-sh/uv/releases/tag/0.9.22"/>
-    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
-  </entry>
 </feed>
