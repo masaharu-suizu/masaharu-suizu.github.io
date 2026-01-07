@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-07T11:19:23.333335+00:00</updated>
+  <updated>2026-01-07T12:43:10.331134+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -18,13 +18,6 @@
     <updated>2026-01-06T16:33:17+00:00</updated>
     <link href="https://github.com/laravel/laravel/releases/tag/v12.11.1"/>
     <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/setup-uv/releases/tag/v7.2.0</id>
-    <title>[astral-sh/setup-uv] v7.2.0 🌈 add outputs python-version and python-cache-hit</title>
-    <updated>2026-01-06T17:13:01+00:00</updated>
-    <link href="https://github.com/astral-sh/setup-uv/releases/tag/v7.2.0"/>
-    <summary>Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/</summary>
   </entry>
   <entry>
     <id>https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.15</id>
