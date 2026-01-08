@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-08T14:24:02.287889+00:00</updated>
+  <updated>2026-01-08T15:24:49.998316+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://github.com/anchore/scan-action/releases/tag/v7.2.3</id>
+    <title>[anchore/scan-action] v7.2.3</title>
+    <updated>2026-01-08T14:47:09+00:00</updated>
+    <link href="https://github.com/anchore/scan-action/releases/tag/v7.2.3"/>
+    <summary>Anchore container analysis and scan provided as a GitHub Action</summary>
+  </entry>
 </feed>
