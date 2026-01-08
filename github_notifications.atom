@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-08T18:28:03.836328+00:00</updated>
+  <updated>2026-01-08T19:19:04.976746+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -11,5 +11,12 @@
     <updated>2026-01-08T14:47:09+00:00</updated>
     <link href="https://github.com/anchore/scan-action/releases/tag/v7.2.3"/>
     <summary>Anchore container analysis and scan provided as a GitHub Action</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.18</id>
+    <title>[vercel/next.js] v16.1.1-canary.18</title>
+    <updated>2026-01-08T18:31:48+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.18"/>
+    <summary>The React Framework</summary>
   </entry>
 </feed>
