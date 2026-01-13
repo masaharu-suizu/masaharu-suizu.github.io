@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-13T01:38:35.762977+00:00</updated>
+  <updated>2026-01-13T03:27:07.958117+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -25,5 +25,19 @@
     <updated>2026-01-12T23:31:24+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.23"/>
     <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.24</id>
+    <title>[vercel/next.js] v16.1.1-canary.24</title>
+    <updated>2026-01-13T02:13:35+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.1-canary.24"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun/releases/tag/bun-v1.3.6</id>
+    <title>[oven-sh/bun] Bun v1.3.6</title>
+    <updated>2026-01-13T02:27:41+00:00</updated>
+    <link href="https://github.com/oven-sh/bun/releases/tag/bun-v1.3.6"/>
+    <summary>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
   </entry>
 </feed>
