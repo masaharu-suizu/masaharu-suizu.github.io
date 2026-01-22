@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-22T14:29:48.174196+00:00</updated>
+  <updated>2026-01-22T15:29:52.634784+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -11,5 +11,12 @@
     <updated>2026-01-20T17:30:54+00:00</updated>
     <link href="https://github.com/laravel/laravel/releases/tag/v12.11.2"/>
     <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.2</id>
+    <title>[vercel/next.js] v16.2.0-canary.2</title>
+    <updated>2026-01-22T15:16:39+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.2"/>
+    <summary>The React Framework</summary>
   </entry>
 </feed>
