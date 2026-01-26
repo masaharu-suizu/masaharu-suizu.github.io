@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-26T20:26:26.287797+00:00</updated>
+  <updated>2026-01-26T21:23:17.294908+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -60,5 +60,68 @@
     <updated>2026-01-26T18:29:54+00:00</updated>
     <link href="https://github.com/facebook/react/releases/tag/v19.1.5"/>
     <summary>The library for web and native user interfaces.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.0.8</id>
+    <title>[vercel/next.js] v15.0.8</title>
+    <updated>2026-01-26T20:46:11+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.0.8"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.1.12</id>
+    <title>[vercel/next.js] v15.1.12</title>
+    <updated>2026-01-26T20:47:40+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.1.12"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.2.9</id>
+    <title>[vercel/next.js] v15.2.9</title>
+    <updated>2026-01-26T20:48:07+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.2.9"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.3.9</id>
+    <title>[vercel/next.js] v15.3.9</title>
+    <updated>2026-01-26T20:48:30+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.3.9"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.4.11</id>
+    <title>[vercel/next.js] v15.4.11</title>
+    <updated>2026-01-26T20:48:55+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.4.11"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.5.10</id>
+    <title>[vercel/next.js] v15.5.10</title>
+    <updated>2026-01-26T20:51:45+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.5.10"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.6.0-canary.61</id>
+    <title>[vercel/next.js] v15.6.0-canary.61</title>
+    <updated>2026-01-26T20:52:42+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.6.0-canary.61"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.0.11</id>
+    <title>[vercel/next.js] v16.0.11</title>
+    <updated>2026-01-26T20:53:34+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.0.11"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.1.5</id>
+    <title>[vercel/next.js] v16.1.5</title>
+    <updated>2026-01-26T20:54:41+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.5"/>
+    <summary>The React Framework</summary>
   </entry>
 </feed>
