@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-27T13:46:13.485671+00:00</updated>
+  <updated>2026-01-27T14:28:38.764589+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -25,5 +25,12 @@
     <updated>2026-01-27T11:18:01+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.13"/>
     <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/grype/releases/tag/v0.106.0</id>
+    <title>[anchore/grype] v0.106.0</title>
+    <updated>2026-01-27T14:09:13+00:00</updated>
+    <link href="https://github.com/anchore/grype/releases/tag/v0.106.0"/>
+    <summary>A vulnerability scanner for container images and filesystems</summary>
   </entry>
 </feed>
