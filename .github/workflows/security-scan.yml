@@ -1,4 +1,4 @@
-name: Security Scan
+name: Security Scan (Syft-Grype)
 
 on:
   push:
@@ -17,13 +17,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Install uv
-        uses: astral-sh/setup-uv@v7
+      - name: Generate SBOM with Syft
+        uses: anchore/sbom-action@v0
         with:
-          version: "latest"
+          path: .
+          format: cyclonedx-json
+          output-file: sbom.json
+          upload-artifact: false
 
-      - name: Generate SBOM with uv
-        run: uv export --format cyclonedx1.5 --output-file sbom.json --no-dev --locked
+      - name: Show detected packages
+        run: |
+          syft dir:. -o table
 
       - name: Scan SBOM with Grype
         uses: anchore/scan-action@v7
@@ -38,4 +42,4 @@ jobs:
         run: |
           curl -H "Content-Type: application/json" \
                -d '{"username": "Failure", "content": "⚠️ **GitHub Actionsが失敗しました。**\n内容を確認してください: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"}' \
-               ${{ secrets.DISCORD_WEBHOOK }}
+               ${{ secrets.DISCORD_WEBHOOK_FOR_GITHUB }}
