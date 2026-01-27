@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-27T03:46:47.318258+00:00</updated>
+  <updated>2026-01-27T04:46:08.274253+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -118,25 +118,11 @@
     <summary>The React Framework</summary>
   </entry>
   <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.1.5</id>
-    <title>[vercel/next.js] v16.1.5</title>
-    <updated>2026-01-26T20:54:41+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.5"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
     <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.9</id>
     <title>[vercel/next.js] v16.2.0-canary.9</title>
     <updated>2026-01-26T21:44:16+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.9"/>
     <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/uv/releases/tag/0.9.27</id>
-    <title>[astral-sh/uv] 0.9.27</title>
-    <updated>2026-01-26T23:30:55+00:00</updated>
-    <link href="https://github.com/astral-sh/uv/releases/tag/0.9.27"/>
-    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
   </entry>
   <entry>
     <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.10</id>
