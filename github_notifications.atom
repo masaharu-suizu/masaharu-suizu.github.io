@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-27T23:20:57.504645+00:00</updated>
+  <updated>2026-01-28T01:44:34.198055+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -46,5 +46,19 @@
     <updated>2026-01-27T14:46:22+00:00</updated>
     <link href="https://github.com/anchore/sbom-action/releases/tag/v0.22.1"/>
     <summary>GitHub Action for creating software bill of materials using Syft.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.14</id>
+    <title>[vercel/next.js] v16.2.0-canary.14</title>
+    <updated>2026-01-27T23:41:31+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.14"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.1.6</id>
+    <title>[vercel/next.js] v16.1.6</title>
+    <updated>2026-01-27T23:57:08+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.6"/>
+    <summary>The React Framework</summary>
   </entry>
 </feed>
