@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-28T10:27:21.716694+00:00</updated>
+  <updated>2026-01-28T11:21:59.811147+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -24,6 +24,27 @@
     <title>[symfony/symfony] v6.4.33</title>
     <updated>2026-01-28T10:03:30+00:00</updated>
     <link href="https://github.com/symfony/symfony/releases/tag/v6.4.33"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v7.3.11</id>
+    <title>[symfony/symfony] v7.3.11</title>
+    <updated>2026-01-28T10:29:48+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v7.3.11"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v7.4.5</id>
+    <title>[symfony/symfony] v7.4.5</title>
+    <updated>2026-01-28T10:45:12+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v7.4.5"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v8.0.5</id>
+    <title>[symfony/symfony] v8.0.5</title>
+    <updated>2026-01-28T11:03:04+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v8.0.5"/>
     <summary>The Symfony PHP framework</summary>
   </entry>
 </feed>
