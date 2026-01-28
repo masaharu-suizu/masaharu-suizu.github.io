@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-28T04:42:45.069436+00:00</updated>
+  <updated>2026-01-28T05:27:07.438432+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -10,55 +10,6 @@
     <title>[vercel/next.js] v16.2.0-canary.12</title>
     <updated>2026-01-27T09:17:43+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.12"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/anchore/syft/releases/tag/v1.41.0</id>
-    <title>[anchore/syft] v1.41.0</title>
-    <updated>2026-01-27T11:08:14+00:00</updated>
-    <link href="https://github.com/anchore/syft/releases/tag/v1.41.0"/>
-    <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.13</id>
-    <title>[vercel/next.js] v16.2.0-canary.13</title>
-    <updated>2026-01-27T11:18:01+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.13"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/anchore/grype/releases/tag/v0.106.0</id>
-    <title>[anchore/grype] v0.106.0</title>
-    <updated>2026-01-27T14:09:13+00:00</updated>
-    <link href="https://github.com/anchore/grype/releases/tag/v0.106.0"/>
-    <summary>A vulnerability scanner for container images and filesystems</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/anchore/scan-action/releases/tag/v7.3.1</id>
-    <title>[anchore/scan-action] v7.3.1</title>
-    <updated>2026-01-27T14:46:13+00:00</updated>
-    <link href="https://github.com/anchore/scan-action/releases/tag/v7.3.1"/>
-    <summary>Anchore container analysis and scan provided as a GitHub Action</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/anchore/sbom-action/releases/tag/v0.22.1</id>
-    <title>[anchore/sbom-action] v0.22.1</title>
-    <updated>2026-01-27T14:46:22+00:00</updated>
-    <link href="https://github.com/anchore/sbom-action/releases/tag/v0.22.1"/>
-    <summary>GitHub Action for creating software bill of materials using Syft.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.14</id>
-    <title>[vercel/next.js] v16.2.0-canary.14</title>
-    <updated>2026-01-27T23:41:31+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.14"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.1.6</id>
-    <title>[vercel/next.js] v16.1.6</title>
-    <updated>2026-01-27T23:57:08+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.6"/>
     <summary>The React Framework</summary>
   </entry>
 </feed>
