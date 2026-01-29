@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-29T20:28:43.958163+00:00</updated>
+  <updated>2026-01-29T21:25:51.189503+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -81,5 +81,12 @@
     <updated>2026-01-29T20:19:39+00:00</updated>
     <link href="https://github.com/astral-sh/uv/releases/tag/0.9.28"/>
     <summary>An extremely fast Python package and project manager, written in Rust.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft/releases/tag/v1.41.1</id>
+    <title>[anchore/syft] v1.41.1</title>
+    <updated>2026-01-29T21:02:03+00:00</updated>
+    <link href="https://github.com/anchore/syft/releases/tag/v1.41.1"/>
+    <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
   </entry>
 </feed>
