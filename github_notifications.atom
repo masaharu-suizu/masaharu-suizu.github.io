@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-01-29T10:35:52.858542+00:00</updated>
+  <updated>2026-01-29T11:30:06.861210+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -67,5 +67,12 @@
     <updated>2026-01-29T04:27:46+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.16"/>
     <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun/releases/tag/bun-v1.3.8</id>
+    <title>[oven-sh/bun] Bun v1.3.8</title>
+    <updated>2026-01-29T10:38:36+00:00</updated>
+    <link href="https://github.com/oven-sh/bun/releases/tag/bun-v1.3.8"/>
+    <summary>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
   </entry>
 </feed>
