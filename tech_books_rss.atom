@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/masaharu-suizu/masaharu-suizu.github.io/tech_books_rss.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-02-01T06:47:05.252360+00:00</updated>
+  <updated>2026-02-01T06:54:19.077507+00:00</updated>
   <link href="https://github.com/masaharu-suizu/masaharu-suizu.github.io/tech_books_rss.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
