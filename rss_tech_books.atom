@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+  <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
+  <title>Tracking tech books [masaharu-suizu]</title>
+  <updated>2026-02-01T11:11:22.410744+00:00</updated>
+  <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798189765</id>
+    <title>WebエンジニアのためのChatGPT Webアプリ開発術  効率的なプロンプトで開発力アップ！</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798189765"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798190228</id>
+    <title>Exercise Python  プログラマ脳を鍛える至高の問題集</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798190228"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798190211</id>
+    <title>Exercise Go  プログラマ脳を鍛える至高の問題集</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798190211"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798190457</id>
+    <title>セキュリティ1年生  図解でわかる！会話でまなべる！</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798190457"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798187532</id>
+    <title>ChatGPTプログラミング2年生 Pythonゲーム作り  体験してわかる！AIと会話でまなべる！</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798187532"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798184852</id>
+    <title>Androidアプリ開発のためのセキュリティ入門  体験して学ぶ16の脆弱性とその対策</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798184852"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798190914</id>
+    <title>システムの引き継ぎに失敗しないための本  担当者の交代、ベンダー変更、アウトソーシング化に対応できる！</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798190914"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798192123</id>
+    <title>実務で役立つ ログの教科書  基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798192123"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798191584</id>
+    <title>つくって、壊して、直して学ぶ Git＆GitHub 入門</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798191584"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798190082</id>
+    <title>システム設計・データ活用のためのデータモデル入門  ビジネスを飛躍させる概念データモデルの理解</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798190082"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798192956</id>
+    <title>Microsoft Power Apps 入門 第2版</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798192956"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798186993</id>
+    <title>APIファースト  Postmanで学ぶ効率的かつ柔軟な開発アプローチ</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798186993"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798195735</id>
+    <title>Gemini、NotebookLM、AI Studioで効率化  Google AI仕事術</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798195735"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798187983</id>
+    <title>サイバー忍者入門  忍者・スパイ・軍隊・ハッカーに学ぶ フルスタック・ハッキング</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798187983"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798193403</id>
+    <title>ChatGPTはどのように動いているのか？</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798193403"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798193045</id>
+    <title>LangChainによるAIエージェント開発講座</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798193045"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798194073</id>
+    <title>アーキテクチャモダナイゼーション  組織とビジネスの未来を設計する</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798194073"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798190235</id>
+    <title>Exercise Rust  プログラマ脳を鍛える至高の問題集</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798190235"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798193601</id>
+    <title>アナリストのためのChatGPTリサーチ・レポート術  Deep Researchで調査分析力・報告書作成力アップ！</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798193601"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798193526</id>
+    <title>図解まるわかり AIエージェントのしくみ</title>
+    <updated>2026-02-01T11:11:22.410472+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798193526"/>
+    <summary>翔泳社</summary>
+  </entry>
+</feed>
