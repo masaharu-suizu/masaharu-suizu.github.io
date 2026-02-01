@@ -1,4 +1,4 @@
-name: Tech Books RSS
+name: RSS Tech Books
 
 permissions:
   contents: write
@@ -26,13 +26,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: |
-          uv run generate_tech_books_rss.py
+          uv run rss_tech_books.py
 
-      - name: Commit and push RSS feed
+      - name: Commit and Push changes
         run: |
           git config user.name "Masaharu Suizu"
           git config user.email "masaharu.sui@gmail.com"
-          git add tech_books_rss.atom
-          git commit -m "Update RSS feed [skip ci]" || echo "No changes to commit"
+          git add rss_tech_books.atom .data/tech_books.json
+          git commit -m "Update RSS feed [skip ci]" || exit 0
           git push https://x-access-token:${{ secrets.TOKEN_FOR_WRITE }}@github.com/masaharu-suizu/masaharu-suizu.github.io.git main
 
