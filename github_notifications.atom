@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-02-01T02:13:21.334739+00:00</updated>
+  <updated>2026-02-01T05:00:14.895704+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -11,13 +11,6 @@
     <updated>2026-01-30T15:15:30+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.18"/>
     <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/ruff-action/releases/tag/v3.6.1</id>
-    <title>[astral-sh/ruff-action] v3.6.1 🌈 fix automatic minor tag updates</title>
-    <updated>2026-01-30T18:45:31+00:00</updated>
-    <link href="https://github.com/astral-sh/ruff-action/releases/tag/v3.6.1"/>
-    <summary>A GitHub Action to run Ruff</summary>
   </entry>
   <entry>
     <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.19</id>
