@@ -1,0 +1,38 @@
+name: Tech Books RSS
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+
+      - name: Sync dependencies
+        run: uv sync
+
+      - name: Run script to generate RSS feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: |
+          uv run generate_tech_books_rss.py
+
+      - name: Commit and push RSS feed
+        run: |
+          git config user.name "Masaharu Suizu"
+          git config user.email "masaharu.sui@gmail.com"
+          git add tech_books_rss.atom
+          git commit -m "Update RSS feed [skip ci]" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.TOKEN_FOR_WRITE }}@github.com/masaharu-suizu/masaharu-suizu.github.io.git main
+
