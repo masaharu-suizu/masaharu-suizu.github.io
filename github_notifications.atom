@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-02-03T17:51:50.256870+00:00</updated>
+  <updated>2026-02-03T18:55:12.939917+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -10,6 +10,20 @@
     <title>[vercel/next.js] v16.2.0-canary.24</title>
     <updated>2026-02-02T23:36:57+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.24"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft/releases/tag/v1.41.2</id>
+    <title>[anchore/syft] v1.41.2</title>
+    <updated>2026-02-03T18:39:49+00:00</updated>
+    <link href="https://github.com/anchore/syft/releases/tag/v1.41.2"/>
+    <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.25</id>
+    <title>[vercel/next.js] v16.2.0-canary.25</title>
+    <updated>2026-02-03T18:44:57+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.25"/>
     <summary>The React Framework</summary>
   </entry>
 </feed>
