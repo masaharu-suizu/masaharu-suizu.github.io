@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-02-04T18:50:30.553349+00:00</updated>
+  <updated>2026-02-04T19:37:33.291269+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -60,5 +60,19 @@
     <updated>2026-02-04T15:49:14+00:00</updated>
     <link href="https://github.com/anchore/scan-action/releases/tag/v7.3.2"/>
     <summary>Anchore container analysis and scan provided as a GitHub Action</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v15.5.12</id>
+    <title>[vercel/next.js] v15.5.12</title>
+    <updated>2026-02-04T18:57:21+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v15.5.12"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/fastapi/fastapi/releases/tag/0.128.1</id>
+    <title>[fastapi/fastapi] 0.128.1</title>
+    <updated>2026-02-04T19:21:07+00:00</updated>
+    <link href="https://github.com/fastapi/fastapi/releases/tag/0.128.1"/>
+    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
   </entry>
 </feed>
