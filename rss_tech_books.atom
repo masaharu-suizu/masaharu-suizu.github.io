@@ -2,9 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-02-06T02:46:32.243638+00:00</updated>
+  <updated>2026-02-06T06:43:41.199060+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12745-9</id>
+    <title>小一時間でゲームをつくる─&amp;#8288;─7つの定番ゲームのプログラミングを体験</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12745-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-13109-8</id>
+    <title>Fluentd実践入門─&amp;#8288;─統合ログ基盤のためのデータ収集ツール</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-13109-8"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13269-9</id>
+    <title>Azureコンテナアプリケーション開発─&amp;#8288;─開発に注力するための実践手法</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13269-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13366-5</id>
+    <title>Webアプリケーションアクセシビリティ―&amp;#8288;―今日から始める現場からの改善</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13366-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13409-9</id>
+    <title>縁の下のUIデザイン─&amp;#8288;─小さな工夫で大きな効果をもたらす実践TIPS＆テクニック</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13409-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13569-0</id>
+    <title>毎日使える！ Visual Studio Code─&amp;#8288;─実践的な操作、言語ごとの開発環境、拡張機能開発</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13569-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13661-1</id>
+    <title>スクラムの拡張による組織づくり―&amp;#8288;―複数のスクラムチームをScrum@Scaleで運用する</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13661-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13859-2</id>
+    <title>良いFAQの育て方―&amp;#8288;―サイト作成・改善・効果測定で成果をあげる運営手法</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13859-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14014-4</id>
+    <title>Elixir実践入門―&amp;#8288;―基本文法、Web開発、機械学習、IoT</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14014-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-13993-3</id>
+    <title>Flutter実践開発─&amp;#8288;─iPhone／Android両対応アプリ開発のテクニック</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-13993-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14156-1</id>
+    <title>WEB+DB PRESS総集編［Vol.1～136］</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14156-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14178-3</id>
+    <title>SSL/TLS実践入門─&amp;#8288;─Webの安全性を支える暗号化技術の設計思想</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14178-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14293-3</id>
+    <title>Web API設計実践入門―&amp;#8288;―API仕様ファーストによるテスト駆動開発</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14293-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14401-2</id>
+    <title>現場のPython─&amp;#8288;─Webシステム開発から、機械学習・データ分析まで</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14401-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14405-0</id>
+    <title>SQL緊急救命室─&amp;#8288;─非効率なコードを改善せよ！</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14405-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14546-0</id>
+    <title>［作って学ぶ］ブラウザのしくみ─&amp;#8288;─HTTP、HTML、CSS、JavaScriptの裏側</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14546-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14602-3</id>
+    <title>モバイルアプリアクセシビリティ入門─&amp;#8288;─iOS＋Androidのデザインと実装</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14602-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14673-3</id>
+    <title>改訂第4版 すらすらと手が動くようになる SQL書き方ドリル</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14673-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14653-5</id>
+    <title>パスキーのすべて─&amp;#8288;─導入・UX設計・実装</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14653-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14859-1</id>
+    <title>［作って学ぶ］OSのしくみⅠ─&amp;#8288;─メモリ管理、マルチタスク、ハードウェア制御</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14859-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15190-4</id>
+    <title>［改訂新版］SQL実践入門─&amp;#8288;─高速でわかりやすいクエリの書き方</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15190-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-14861-4</id>
+    <title>PostgreSQL実践入門─&amp;#8288;─アーキテクチャ、運用監視、性能改善</title>
+    <updated>2026-02-06T06:43:41.198593+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-14861-4"/>
+    <summary>技術評論社</summary>
+  </entry>
   <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798189765</id>
     <title>WebエンジニアのためのChatGPT Webアプリ開発術  効率的なプロンプトで開発力アップ！</title>
