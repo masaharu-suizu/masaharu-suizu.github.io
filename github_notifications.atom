@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-02-06T15:38:42.115284+00:00</updated>
+  <updated>2026-02-06T16:42:13.755663+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -18,5 +18,12 @@
     <updated>2026-02-04T19:21:07+00:00</updated>
     <link href="https://github.com/fastapi/fastapi/releases/tag/0.128.1"/>
     <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/setup-uv/releases/tag/v7.3.0</id>
+    <title>[astral-sh/setup-uv] v7.3.0 🌈 New features and bug fixes for activate-environment</title>
+    <updated>2026-02-06T15:43:29+00:00</updated>
+    <link href="https://github.com/astral-sh/setup-uv/releases/tag/v7.3.0"/>
+    <summary>Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/</summary>
   </entry>
 </feed>
