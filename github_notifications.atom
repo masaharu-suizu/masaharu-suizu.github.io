@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-02-06T16:42:13.755663+00:00</updated>
+  <updated>2026-02-06T17:40:07.833641+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -25,5 +25,33 @@
     <updated>2026-02-06T15:43:29+00:00</updated>
     <link href="https://github.com/astral-sh/setup-uv/releases/tag/v7.3.0"/>
     <summary>Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/fastapi/fastapi/releases/tag/0.128.3</id>
+    <title>[fastapi/fastapi] 0.128.3</title>
+    <updated>2026-02-06T16:47:20+00:00</updated>
+    <link href="https://github.com/fastapi/fastapi/releases/tag/0.128.3"/>
+    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.3.30</id>
+    <title>[php/php-src] PHP 8.3.30</title>
+    <updated>2026-02-06T17:04:02+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.3.30"/>
+    <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.4.17</id>
+    <title>[php/php-src] PHP 8.4.17</title>
+    <updated>2026-02-06T17:04:49+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.4.17"/>
+    <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.5.2</id>
+    <title>[php/php-src] PHP 8.5.2</title>
+    <updated>2026-02-06T17:05:24+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.5.2"/>
+    <summary>The PHP Interpreter</summary>
   </entry>
 </feed>
