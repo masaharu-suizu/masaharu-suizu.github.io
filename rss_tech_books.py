@@ -4,6 +4,7 @@ from feedgen.feed import FeedGenerator
 import json
 import os
 import requests
+import re
 
 SHOEISHA_DOMAIN = "https://www.shoeisha.co.jp"
 
@@ -28,13 +29,8 @@ def request(url: str) -> requests.Response:
         raise Exception(f"Failed to retrieve the page: {response.status_code}")
     return response
 
-
-if __name__ == "__main__":
- 
-    # scraping tech books from SHOEISHA website
-    response = request(SHOEISHA_DOMAIN + "/book/category/1/0/")
-    soup     = BeautifulSoup(response.text, "html.parser")
-    books    = []
+def scrape_shoeisha(soup: BeautifulSoup) -> list[dict]:
+    books = []
     for div in soup.find_all("div", class_="textWrapper"):
         h3_tag = div.find("h3")
         if not h3_tag:
@@ -60,6 +56,49 @@ if __name__ == "__main__":
                 details["id"] = data_detail
 
         books.append(details)
+    return books
+
+def scrape_gihyo_books():
+    api_url  = "https://gihyo.jp/api_gh/book/series/WEB%2BDB%20PRESS%20plus?limit=22"
+    base_url = "https://gihyo.jp"
+
+    books = []
+    try:
+        response = requests.get(api_url, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+
+        for isbn, value in data["list"].items():
+            # HTML tags are included in title and subtitle
+            title    = re.sub(r"<[^>]*>", "", value["title"]).strip()
+            subtitle = re.sub(r"<[^>]*>", "", value["subtitle"]).strip()
+
+            books.append({
+                "id"     : isbn,
+                "title"  : title + subtitle,
+                "link"   : base_url + value["url"],
+                "summary": "技術評論社"
+            })
+
+    except requests.exceptions.RequestException as e:
+        print(f"HTTPリクエストエラー: {e}")
+        return []
+    except Exception as e:
+        print(f"予期しないエラー: {e}")
+        return []
+
+    return books    
+
+
+if __name__ == "__main__":
+ 
+    # scraping tech books from SHOEISHA website
+    response = request(SHOEISHA_DOMAIN + "/book/category/1/0/")
+    soup     = BeautifulSoup(response.text, "html.parser")
+    shoeisha_books    = scrape_shoeisha(soup)
+    gihyo_books       = scrape_gihyo_books()
+
+    books = shoeisha_books + gihyo_books
 
     # set current time
     now_utc = datetime.now(timezone.utc).isoformat()
