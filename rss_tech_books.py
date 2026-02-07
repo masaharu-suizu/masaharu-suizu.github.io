@@ -59,26 +59,36 @@ def scrape_shoeisha(soup: BeautifulSoup) -> list[dict]:
     return books
 
 def scrape_gihyo_books():
-    api_url  = "https://gihyo.jp/api_gh/book/series/WEB%2BDB%20PRESS%20plus?limit=22"
+    api_url_list  = [
+        "https://gihyo.jp/api_gh/book/series/WEB%2BDB%20PRESS%20plus?limit=22",
+        "https://gihyo.jp/api_gh/book/series/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E9%81%B8%E6%9B%B8?limit=13",
+        "https://gihyo.jp/api_gh/book/series/%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93?limit=13",
+        "https://gihyo.jp/api_gh/book/series/%E6%9C%80%E7%9F%AD%E7%AA%81%E7%A0%B4?limit=13",
+        "https://gihyo.jp/api_gh/book/series/Software%20Design%20plus?limit=13",
+        "https://gihyo.jp/api_gh/book/series/Tech%20%C3%97%20Books%20plus?limit=13",
+        "https://gihyo.jp/api_gh/book/series/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9?limit=13"
+    ]
+
     base_url = "https://gihyo.jp"
 
     books = []
     try:
-        response = requests.get(api_url, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+        for api_url in api_url_list:
+            response = requests.get(api_url, timeout=10)
+            response.raise_for_status()
+            data = response.json()
 
-        for isbn, value in data["list"].items():
-            # HTML tags are included in title and subtitle
-            title    = re.sub(r"<[^>]*>", "", value["title"]).strip()
-            subtitle = re.sub(r"<[^>]*>", "", value["subtitle"]).strip()
+            for isbn, value in data["list"].items():
+                # HTML tags are included in title and subtitle
+                title    = re.sub(r"<[^>]*>", "", value["title"]).strip()
+                subtitle = re.sub(r"<[^>]*>", "", value["subtitle"]).strip()
 
-            books.append({
-                "id"     : isbn,
-                "title"  : title + subtitle,
-                "link"   : base_url + value["url"],
-                "summary": "技術評論社"
-            })
+                books.append({
+                    "id"     : isbn,
+                    "title"  : title + subtitle,
+                    "link"   : base_url + value["url"],
+                    "summary": "技術評論社"
+                })
 
     except requests.exceptions.RequestException as e:
         print(f"HTTPリクエストエラー: {e}")
