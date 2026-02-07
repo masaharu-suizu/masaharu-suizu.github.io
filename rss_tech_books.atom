@@ -2,9 +2,552 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-02-07T02:41:58.973296+00:00</updated>
+  <updated>2026-02-07T05:46:04.949624+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://gihyo.jp/book/2020/978-4-297-11125-0</id>
+    <title>［改訂新版］jQueryポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2020/978-4-297-11125-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2020/978-4-297-11496-1</id>
+    <title>改訂3版 Javaポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2020/978-4-297-11496-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2021/978-4-297-11999-7</id>
+    <title>［改訂第4版］C++ポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2021/978-4-297-11999-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-13062-6</id>
+    <title>Ruby on Rails 7 ポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-13062-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13479-2</id>
+    <title>Vue.jsポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13479-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13386-3</id>
+    <title>HTML&amp;amp;CSSポケットリファレンス［改訂3版］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13386-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13725-0</id>
+    <title>［改訂第3版］Windowsコマンドプロンプトポケットリファレンス［下］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13725-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13723-6</id>
+    <title>［改訂第3版］Windowsコマンドプロンプトポケットリファレンス［上］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13723-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14165-3</id>
+    <title>［改訂第5版］C++ポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14165-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14244-5</id>
+    <title>［改訂第3版］C#ポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14244-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14190-5</id>
+    <title>［改訂第3版］Swiftポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14190-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15323-6</id>
+    <title>［改訂第5版］SQLポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15323-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15331-1</id>
+    <title>［改訂第4版］HTML&amp;amp;CSSポケットリファレンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15331-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12560-8</id>
+    <title>ディープラーニングを支える技術—&amp;#8288;—「&amp;#8288;正解」を導くメカニズム［技術基礎］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12560-8"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12811-1</id>
+    <title>ディープラーニングを支える技術〈2〉—&amp;#8288;—ニューラルネットワーク最大の謎</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12811-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12972-9</id>
+    <title>ゲームから学ぶAI—&amp;#8288;—環境シミュレータ×深層強化学習で広がる世界</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12972-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14006-9</id>
+    <title>［改訂第4版］シェルスクリプト基本リファレンス―&amp;#8288;―#!/bin/shで、ここまでできる</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14006-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14132-5</id>
+    <title>TCP/IP＆ネットワークコマンド入門─&amp;#8288;─プロトコルとインターネット、基本の力［Linux/Windows/macOS対応］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14132-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14157-8</id>
+    <title>TCP/IP技術入門—&amp;#8288;—プロトコルスタックの基礎×実装［HTTP/3, QUIC, モバイル, Wi-Fi, IoT］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14157-8"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14469-2</id>
+    <title>標準SQL＋データベース入門—&amp;#8288;—RDBとDB設計、基本の力［MySQL/PostgreSQL/MariaDB/SQL Server対応］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14469-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14563-7</id>
+    <title>改訂新版［エンジニアのための］データ分析基盤入門＜基本編＞ データ活用を促進する！ プラットフォーム＆データ品質の考え方</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14563-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14760-0</id>
+    <title>すぐわかる！ ぷよぷよプログラミング SEGA公式ガイドブック</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14760-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15273-4</id>
+    <title>データを問う力・伝える技術 探索的データ分析・グラフ化の定石×即戦力ハンズオン［データ可視化技術入門・下巻］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15273-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15271-0</id>
+    <title>データを見る力・見せる技術 分析・可視化のための基本×速習ハンズオン［データ可視化技術入門・上巻］</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15271-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2021/978-4-297-12267-6</id>
+    <title>1日1問、半年以内に習得 シェル・ワンライナー160本ノック</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2021/978-4-297-12267-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2021/978-4-297-12437-3</id>
+    <title>プロを目指す人のためのRuby入門［改訂2版&amp;#8288;］&amp;#8288; 言語仕様からテスト駆動開発・デバッグ技法まで</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2021/978-4-297-12437-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12519-6</id>
+    <title>エキスパートたちのGo言語 一流のコードから応用力を学ぶ</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12519-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12747-3</id>
+    <title>プロを目指す人のためのTypeScript入門 安全なコードの書き方から高度な型の使い方まで</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12747-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-13206-4</id>
+    <title>［改訂3版］内部構造から学ぶPostgreSQL―設計・運用計画の鉄則</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-13206-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13374-0</id>
+    <title>Hinemosではじめる 実践ジョブ管理・自動化入門</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13374-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13613-0</id>
+    <title>プロになるためのSpring入門―&amp;#8288;―ゼロからの開発力養成講座</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13613-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2023/978-4-297-13635-2</id>
+    <title>基礎から学ぶコンテナセキュリティ―&amp;#8288;―Dockerを通して理解するコンテナの攻撃例と対策</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2023/978-4-297-13635-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-13893-6</id>
+    <title>systemdの思想と機能―Linuxを支えるシステム管理のためのソフトウェアスイート</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-13893-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14055-7</id>
+    <title>［改訂新版］イラストでわかるDockerとKubernetes</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14055-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14171-4</id>
+    <title>Google Cloudで学ぶ生成AIアプリ開発入門―&amp;#8288;―フロントエンドからバックエンドまでフルスタック開発を実践ハンズオン</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14171-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14569-9</id>
+    <title>ひみつのLinux通信 UNIXコマンド実力養成</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14569-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14899-7</id>
+    <title>Docker&amp;amp;Kubernetesネットワークのしくみ―&amp;#8288;―クラウドネイティブに求められる情報通信の知識</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14899-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2021/978-4-297-12056-6</id>
+    <title>最短突破
+情報セキュリティ管理士 認定試験 公式テキスト</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2021/978-4-297-12056-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2021/978-4-297-12054-2</id>
+    <title>最短突破
+情報セキュリティ初級 認定試験 公式テキスト</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2021/978-4-297-12054-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2021/978-4-297-12261-4</id>
+    <title>最短突破
+データサイエンティスト検定（リテラシーレベル）公式リファレンスブック</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2021/978-4-297-12261-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2021/978-4-297-12321-5</id>
+    <title>最短突破
+Microsoft Azure Fundamentals［AZ-900］合格教本</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2021/978-4-297-12321-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12832-6</id>
+    <title>最短突破
+データサイエンティスト検定（リテラシーレベル）公式リファレンスブック 第2版</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12832-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12926-2</id>
+    <title>最短突破
+ディープラーニングG検定（ジェネラリスト）問題集 第2版</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12926-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2022/978-4-297-12952-1</id>
+    <title>最短突破
+Microsoft Azureセキュリティ テクノロジ［AZ-500］合格教本</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2022/978-4-297-12952-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14130-1</id>
+    <title>最短突破
+データサイエンティスト検定（リテラシーレベル）公式リファレンスブック 第3版</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14130-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14136-3</id>
+    <title>最短突破
+Microsoft Azure Fundamentals［AZ-900］合格教本 改訂新版</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14136-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14236-0</id>
+    <title>最短突破
+LinuCレベル1 バージョン10.0合格教本［101試験，102試験対応］改訂新版</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14236-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14277-3</id>
+    <title>AWS認定 クラウドプラクティショナー 合格対策テキスト+問題集</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14277-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14216-2</id>
+    <title>最短突破
+Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テキスト</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14216-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14772-3</id>
+    <title>AWS認定AIプラクティショナー 合格対策テキスト＋問題集</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14772-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15263-5</id>
+    <title>令和08年 基本情報技術者 合格教本</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15263-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15253-6</id>
+    <title>令和08年【春期】【&amp;#8288;秋期】情報処理安全確保支援士 合格教本</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15253-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15247-5</id>
+    <title>令和08年 かやのき先生のITパスポート教室準拠 書き込み式ドリル</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15247-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15249-9</id>
+    <title>令和08年 かやのき先生の基本情報技術者教室準拠 書き込み式ドリル</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15249-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15243-7</id>
+    <title>令和08年 イメージ&amp;amp;クレバー方式でよくわかる かやのき先生のITパスポート教室</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15243-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15245-1</id>
+    <title>令和08年 イメージ&amp;amp;クレバー方式でよくわかる かやのき先生の基本情報技術者教室</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15245-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15204-8</id>
+    <title>【改訂第3版】要点早わかり ネットワークスペシャリスト ポケット攻略本</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15204-8"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15261-1</id>
+    <title>令和08年 情報セキュリティマネジメント パーフェクトラーニング過去問題集</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15261-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15269-7</id>
+    <title>令和08年 情報セキュリティマネジメント 合格教本</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15269-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15267-3</id>
+    <title>令和08年 応用情報技術者 合格教本</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15267-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15281-9</id>
+    <title>令和08年 応用情報技術者 パーフェクトラーニング過去問題集</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15281-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15333-5</id>
+    <title>令和08-09年 応用情報技術者 試験によくでる問題集【科目A】</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15333-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15358-8</id>
+    <title>令和08-09年 ITパスポート 試験によくでる問題集</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15358-8"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14220-9</id>
+    <title>［入門］Webフロントエンド E2E テスト―&amp;#8288;―PlaywrightによるWebアプリの自動テストから良いテストの書き方まで</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14220-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14337-4</id>
+    <title>AWSクラウドネイティブデザインパターン</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14337-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14413-5</id>
+    <title>Rustで学ぶWebAssembly―&amp;#8288;―入門からコンポーネントモデルによる開発まで</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14413-5"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2024/978-4-297-14530-9</id>
+    <title>LangChainとLangGraphによるRAG・AIエージェント［実践］入門</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2024/978-4-297-14530-9"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14724-2</id>
+    <title>［詳解］AWS Infrastructure as Code―&amp;#8288;―使って比べるTerraform＆AWS CDK</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14724-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14846-1</id>
+    <title>Azure Machine Learningではじめる機械学習/LLM活用入門</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14846-1"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-14943-7</id>
+    <title>実践 SONiC入門</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14943-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15074-7</id>
+    <title>実践Apache Iceberg—&amp;#8288;—高効率・高生産性を実現するデータ基盤の構築と運用</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15074-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15114-0</id>
+    <title>改訂新版 Go言語プログラミングエッセンス</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15114-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2025/978-4-297-15327-4</id>
+    <title>MCPサーバー開発大全―&amp;#8288;―独自サーバーの実装から自動テストの構築まで</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15327-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15354-0</id>
+    <title>実践Claude Code入門―現場で活用するためのAIコーディングの思考法</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15354-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15419-6</id>
+    <title>LLMの原理、RAG・エージェント開発から読み解く コンテキストエンジニアリング</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15419-6"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15491-2</id>
+    <title>API Platformを活用したPHPによる本格的なWeb API開発</title>
+    <updated>2026-02-07T05:46:04.949150+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15491-2"/>
+    <summary>技術評論社</summary>
+  </entry>
   <entry>
     <id>https://gihyo.jp/book/2022/978-4-297-12745-9</id>
     <title>小一時間でゲームをつくる─&amp;#8288;─7つの定番ゲームのプログラミングを体験</title>
