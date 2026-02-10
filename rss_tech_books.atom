@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-02-09T02:54:13.003708+00:00</updated>
+  <updated>2026-02-10T03:19:19.237967+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -703,13 +703,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798189765</id>
-    <title>WebエンジニアのためのChatGPT Webアプリ開発術  効率的なプロンプトで開発力アップ！</title>
-    <updated>2026-02-01T11:11:22.410472+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798189765"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798190228</id>
     <title>Exercise Python  プログラマ脳を鍛える至高の問題集</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
@@ -840,6 +833,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>図解まるわかり AIエージェントのしくみ</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798193526"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798192536</id>
+    <title>要件定義の極意  「機能不全」「予算超過」「遅延」を防ぐ20のルール</title>
+    <updated>2026-02-10T03:19:19.237487+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798192536"/>
     <summary>翔泳社</summary>
   </entry>
 </feed>
