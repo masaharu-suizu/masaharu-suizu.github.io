@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-02-12T02:56:20.934622+00:00</updated>
+  <updated>2026-02-13T02:56:22.171692+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -703,13 +703,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798190228</id>
-    <title>Exercise Python  プログラマ脳を鍛える至高の問題集</title>
-    <updated>2026-02-01T11:11:22.410472+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798190228"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798190211</id>
     <title>Exercise Go  プログラマ脳を鍛える至高の問題集</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
@@ -833,6 +826,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>図解まるわかり AIエージェントのしくみ</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798193526"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798194004</id>
+    <title>AI用語図鑑  ビジネス・開発・試験対策に使える厳選キーワード256</title>
+    <updated>2026-02-13T02:56:22.171186+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798194004"/>
     <summary>翔泳社</summary>
   </entry>
   <entry>
