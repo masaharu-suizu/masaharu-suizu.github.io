@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-02-16T02:53:00.033188+00:00</updated>
+  <updated>2026-02-17T02:49:29.803228+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -367,13 +367,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://gihyo.jp/book/2025/978-4-297-15263-5</id>
-    <title>令和08年 基本情報技術者 合格教本</title>
-    <updated>2026-02-07T05:46:04.949150+00:00</updated>
-    <link href="https://gihyo.jp/book/2025/978-4-297-15263-5"/>
-    <summary>技術評論社</summary>
-  </entry>
-  <entry>
     <id>https://gihyo.jp/book/2025/978-4-297-15253-6</id>
     <title>令和08年【春期】【&amp;#8288;秋期】情報処理安全確保支援士 合格教本</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
@@ -455,6 +448,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>令和08-09年 ITパスポート 試験によくでる問題集</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-15358-8"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15501-8</id>
+    <title>支援士R7 春期・秋期－情報処理安全確保支援士の最も詳しい過去問解説</title>
+    <updated>2026-02-17T02:49:29.802722+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15501-8"/>
     <summary>技術評論社</summary>
   </entry>
   <entry>
@@ -703,13 +703,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798190211</id>
-    <title>Exercise Go  プログラマ脳を鍛える至高の問題集</title>
-    <updated>2026-02-01T11:11:22.410472+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798190211"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798190457</id>
     <title>セキュリティ1年生  図解でわかる！会話でまなべる！</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
@@ -840,6 +833,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>要件定義の極意  「機能不全」「予算超過」「遅延」を防ぐ20のルール</title>
     <updated>2026-02-10T03:19:19.237487+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798192536"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798195636</id>
+    <title>PagerDutyによるインシデント管理実践入門</title>
+    <updated>2026-02-17T02:49:29.802722+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798195636"/>
     <summary>翔泳社</summary>
   </entry>
 </feed>
