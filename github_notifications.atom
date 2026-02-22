@@ -2,85 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-02-22T09:29:41.421385+00:00</updated>
+  <updated>2026-02-22T10:23:30.702488+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.47</id>
-    <title>[vercel/next.js] v16.2.0-canary.47</title>
-    <updated>2026-02-16T23:36:48+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.47"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.48</id>
-    <title>[vercel/next.js] v16.2.0-canary.48</title>
-    <updated>2026-02-17T00:45:44+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.48"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.49</id>
-    <title>[vercel/next.js] v16.2.0-canary.49</title>
-    <updated>2026-02-17T23:43:23+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.49"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.50</id>
-    <title>[vercel/next.js] v16.2.0-canary.50</title>
-    <updated>2026-02-18T01:15:51+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.50"/>
-    <summary>The React Framework</summary>
-  </entry>
   <entry>
     <id>https://github.com/anchore/syft/releases/tag/v1.42.1</id>
     <title>[anchore/syft] v1.42.1</title>
     <updated>2026-02-18T17:51:05+00:00</updated>
     <link href="https://github.com/anchore/syft/releases/tag/v1.42.1"/>
     <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.51</id>
-    <title>[vercel/next.js] v16.2.0-canary.51</title>
-    <updated>2026-02-18T23:37:19+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.51"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/anchore/grype/releases/tag/v0.109.0</id>
-    <title>[anchore/grype] v0.109.0</title>
-    <updated>2026-02-19T16:38:30+00:00</updated>
-    <link href="https://github.com/anchore/grype/releases/tag/v0.109.0"/>
-    <summary>A vulnerability scanner for container images and filesystems</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.53</id>
-    <title>[vercel/next.js] v16.2.0-canary.53</title>
-    <updated>2026-02-20T11:43:03+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.53"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.54</id>
-    <title>[vercel/next.js] v16.2.0-canary.54</title>
-    <updated>2026-02-20T20:30:10+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.54"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.55</id>
-    <title>[vercel/next.js] v16.2.0-canary.55</title>
-    <updated>2026-02-20T23:38:55+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.55"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.56</id>
-    <title>[vercel/next.js] v16.2.0-canary.56</title>
-    <updated>2026-02-21T04:33:55+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.56"/>
-    <summary>The React Framework</summary>
   </entry>
   <entry>
     <id>https://github.com/fastapi/fastapi/releases/tag/0.129.1</id>
@@ -95,12 +25,5 @@
     <updated>2026-02-21T17:25:55+00:00</updated>
     <link href="https://github.com/fastapi/fastapi/releases/tag/0.129.2"/>
     <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.57</id>
-    <title>[vercel/next.js] v16.2.0-canary.57</title>
-    <updated>2026-02-21T23:36:38+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.57"/>
-    <summary>The React Framework</summary>
   </entry>
 </feed>
