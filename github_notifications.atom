@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-02-26T07:03:38.098643+00:00</updated>
+  <updated>2026-02-26T08:47:21.650087+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -116,5 +116,26 @@
     <updated>2026-02-25T23:33:44+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.62"/>
     <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun/releases/tag/bun-v1.3.10</id>
+    <title>[oven-sh/bun] Bun v1.3.10</title>
+    <updated>2026-02-26T07:08:40+00:00</updated>
+    <link href="https://github.com/oven-sh/bun/releases/tag/bun-v1.3.10"/>
+    <summary>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v6.4.34</id>
+    <title>[symfony/symfony] v6.4.34</title>
+    <updated>2026-02-26T08:29:28+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v6.4.34"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v7.4.6</id>
+    <title>[symfony/symfony] v7.4.6</title>
+    <updated>2026-02-26T08:42:26+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v7.4.6"/>
+    <summary>The Symfony PHP framework</summary>
   </entry>
 </feed>
