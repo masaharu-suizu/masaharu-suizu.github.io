@@ -2,35 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-01T09:28:40.039577+00:00</updated>
+  <updated>2026-03-01T10:23:47.450071+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/anchore/syft/releases/tag/v1.42.1</id>
-    <title>[anchore/syft] v1.42.1</title>
-    <updated>2026-02-18T17:51:05+00:00</updated>
-    <link href="https://github.com/anchore/syft/releases/tag/v1.42.1"/>
-    <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.129.1</id>
-    <title>[fastapi/fastapi] 0.129.1</title>
-    <updated>2026-02-21T13:09:34+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.129.1"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.129.2</id>
-    <title>[fastapi/fastapi] 0.129.2</title>
-    <updated>2026-02-21T17:25:55+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.129.2"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.66</id>
-    <title>[vercel/next.js] v16.2.0-canary.66</title>
-    <updated>2026-02-27T18:52:20+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.66"/>
-    <summary>The React Framework</summary>
-  </entry>
 </feed>
