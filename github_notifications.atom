@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-02T16:43:25.058034+00:00</updated>
+  <updated>2026-03-02T17:43:52.716096+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -10,6 +10,13 @@
     <title>[vercel/next.js] v16.2.0-canary.70</title>
     <updated>2026-03-01T23:33:08+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.70"/>
+    <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.71</id>
+    <title>[vercel/next.js] v16.2.0-canary.71</title>
+    <updated>2026-03-02T16:39:14+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.71"/>
     <summary>The React Framework</summary>
   </entry>
 </feed>
