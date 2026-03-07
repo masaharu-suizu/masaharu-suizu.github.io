@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-03-06T02:43:19.671752+00:00</updated>
+  <updated>2026-03-07T02:36:17.858088+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -458,13 +458,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://gihyo.jp/book/2024/978-4-297-14220-9</id>
-    <title>［入門］Webフロントエンド E2E テスト―&amp;#8288;―PlaywrightによるWebアプリの自動テストから良いテストの書き方まで</title>
-    <updated>2026-02-07T05:46:04.949150+00:00</updated>
-    <link href="https://gihyo.jp/book/2024/978-4-297-14220-9"/>
-    <summary>技術評論社</summary>
-  </entry>
-  <entry>
     <id>https://gihyo.jp/book/2024/978-4-297-14337-4</id>
     <title>AWSクラウドネイティブデザインパターン</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
@@ -546,6 +539,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>API Platformを活用したPHPによる本格的なWeb API開発</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-15491-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15565-0</id>
+    <title>作って学ぶAIエージェント─&amp;#8288;─TypeScriptとLLMで切り拓くAI時代のエンジニアリング</title>
+    <updated>2026-03-07T02:36:17.857566+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15565-0"/>
     <summary>技術評論社</summary>
   </entry>
   <entry>
