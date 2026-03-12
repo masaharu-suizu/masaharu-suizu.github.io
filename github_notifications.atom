@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-12T21:31:20.474405+00:00</updated>
+  <updated>2026-03-12T22:25:15.681453+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -39,5 +39,12 @@
     <updated>2026-03-12T20:00:17+00:00</updated>
     <link href="https://github.com/php/php-src/releases/tag/php-8.5.4"/>
     <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/setup-uv/releases/tag/v7.5.0</id>
+    <title>[astral-sh/setup-uv] v7.5.0 🌈 Use `astral-sh/versions` as version provider</title>
+    <updated>2026-03-12T22:20:57+00:00</updated>
+    <link href="https://github.com/astral-sh/setup-uv/releases/tag/v7.5.0"/>
+    <summary>Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/</summary>
   </entry>
 </feed>
