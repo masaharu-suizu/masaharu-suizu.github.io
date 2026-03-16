@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-03-15T03:22:25.602306+00:00</updated>
+  <updated>2026-03-16T03:24:59.480999+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -549,13 +549,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://gihyo.jp/book/2022/978-4-297-12745-9</id>
-    <title>小一時間でゲームをつくる─&amp;#8288;─7つの定番ゲームのプログラミングを体験</title>
-    <updated>2026-02-06T06:43:41.198593+00:00</updated>
-    <link href="https://gihyo.jp/book/2022/978-4-297-12745-9"/>
-    <summary>技術評論社</summary>
-  </entry>
-  <entry>
     <id>https://gihyo.jp/book/2022/978-4-297-13109-8</id>
     <title>Fluentd実践入門─&amp;#8288;─統合ログ基盤のためのデータ収集ツール</title>
     <updated>2026-02-06T06:43:41.198593+00:00</updated>
@@ -700,6 +693,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>PostgreSQL実践入門─&amp;#8288;─アーキテクチャ、運用監視、性能改善</title>
     <updated>2026-02-06T06:43:41.198593+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-14861-4"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15503-2</id>
+    <title>エンジニアのための英語─&amp;#8288;─世界の開発者とコラボレーションする</title>
+    <updated>2026-03-16T03:24:59.480485+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15503-2"/>
     <summary>技術評論社</summary>
   </entry>
   <entry>
