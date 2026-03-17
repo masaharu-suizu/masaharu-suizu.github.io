@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-03-16T03:24:59.480999+00:00</updated>
+  <updated>2026-03-17T02:47:44.090856+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -452,7 +452,7 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
   </entry>
   <entry>
     <id>https://gihyo.jp/book/2026/978-4-297-15411-0</id>
-    <title>令和08年応用情報技術者 試験によくでる問題集【科目B】</title>
+    <title>令和08年 応用情報技術者 試験によくでる問題集【科目B】</title>
     <updated>2026-02-26T02:46:14.366891+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-15411-0"/>
     <summary>技術評論社</summary>
