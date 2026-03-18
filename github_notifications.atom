@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-18T09:53:34.460551+00:00</updated>
+  <updated>2026-03-18T10:51:59.873618+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -27,80 +27,10 @@
     <summary>The React Framework</summary>
   </entry>
   <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.98</id>
-    <title>[vercel/next.js] v16.2.0-canary.98</title>
-    <updated>2026-03-14T01:34:07+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.98"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/laravel/laravel/releases/tag/v12.12.2</id>
-    <title>[laravel/laravel] v12.12.2</title>
-    <updated>2026-03-14T16:54:47+00:00</updated>
-    <link href="https://github.com/laravel/laravel/releases/tag/v12.12.2"/>
-    <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.99</id>
-    <title>[vercel/next.js] v16.2.0-canary.99</title>
-    <updated>2026-03-14T23:33:45+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.99"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.100</id>
-    <title>[vercel/next.js] v16.2.0-canary.100</title>
-    <updated>2026-03-15T23:33:29+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.100"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
     <id>https://github.com/astral-sh/setup-uv/releases/tag/v7.6.0</id>
     <title>[astral-sh/setup-uv] v7.6.0 🌈 Fetch uv from Astral's mirror by default</title>
     <updated>2026-03-16T15:36:34+00:00</updated>
     <link href="https://github.com/astral-sh/setup-uv/releases/tag/v7.6.0"/>
     <summary>Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.1.7</id>
-    <title>[vercel/next.js] v16.1.7</title>
-    <updated>2026-03-16T23:28:08+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.1.7"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v15.5.13</id>
-    <title>[vercel/next.js] v15.5.13</title>
-    <updated>2026-03-16T23:29:35+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v15.5.13"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/laravel/laravel/releases/tag/v13.0.0</id>
-    <title>[laravel/laravel] v13.0.0</title>
-    <updated>2026-03-17T15:05:03+00:00</updated>
-    <link href="https://github.com/laravel/laravel/releases/tag/v13.0.0"/>
-    <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/oven-sh/bun/releases/tag/bun-v1.3.11</id>
-    <title>[oven-sh/bun] Bun v1.3.11</title>
-    <updated>2026-03-18T04:32:00+00:00</updated>
-    <link href="https://github.com/oven-sh/bun/releases/tag/bun-v1.3.11"/>
-    <summary>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.102</id>
-    <title>[vercel/next.js] v16.2.0-canary.102</title>
-    <updated>2026-03-18T07:00:11+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.102"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.103</id>
-    <title>[vercel/next.js] v16.2.0-canary.103</title>
-    <updated>2026-03-18T07:02:12+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.103"/>
-    <summary>The React Framework</summary>
   </entry>
 </feed>
