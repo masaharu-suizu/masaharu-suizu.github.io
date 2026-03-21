@@ -2,70 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-21T10:25:32.606439+00:00</updated>
+  <updated>2026-03-21T11:21:46.039786+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/anchore/sbom-action/releases/tag/v0.23.1</id>
-    <title>[anchore/sbom-action] v0.23.1</title>
-    <updated>2026-03-09T19:11:48+00:00</updated>
-    <link href="https://github.com/anchore/sbom-action/releases/tag/v0.23.1"/>
-    <summary>GitHub Action for creating software bill of materials using Syft.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.96</id>
-    <title>[vercel/next.js] v16.2.0-canary.96</title>
-    <updated>2026-03-13T18:07:52+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.96"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.97</id>
-    <title>[vercel/next.js] v16.2.0-canary.97</title>
-    <updated>2026-03-13T23:33:15+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.0-canary.97"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/setup-uv/releases/tag/v7.6.0</id>
-    <title>[astral-sh/setup-uv] v7.6.0 🌈 Fetch uv from Astral's mirror by default</title>
-    <updated>2026-03-16T15:36:34+00:00</updated>
-    <link href="https://github.com/astral-sh/setup-uv/releases/tag/v7.6.0"/>
-    <summary>Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.3</id>
-    <title>[vercel/next.js] v16.2.1-canary.3</title>
-    <updated>2026-03-20T16:50:22+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.3"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/anchore/scan-action/releases/tag/v7.4.0</id>
-    <title>[anchore/scan-action] v7.4.0</title>
-    <updated>2026-03-20T17:57:01+00:00</updated>
-    <link href="https://github.com/anchore/scan-action/releases/tag/v7.4.0"/>
-    <summary>Anchore container analysis and scan provided as a GitHub Action</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/anchore/sbom-action/releases/tag/v0.24.0</id>
-    <title>[anchore/sbom-action] v0.24.0</title>
-    <updated>2026-03-20T17:57:34+00:00</updated>
-    <link href="https://github.com/anchore/sbom-action/releases/tag/v0.24.0"/>
-    <summary>GitHub Action for creating software bill of materials using Syft.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.1</id>
-    <title>[vercel/next.js] v16.2.1</title>
-    <updated>2026-03-20T23:32:37+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.4</id>
-    <title>[vercel/next.js] v16.2.1-canary.4</title>
-    <updated>2026-03-20T23:33:32+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.4"/>
-    <summary>The React Framework</summary>
-  </entry>
 </feed>
