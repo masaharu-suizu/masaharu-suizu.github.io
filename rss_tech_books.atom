@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-03-20T02:46:27.959721+00:00</updated>
+  <updated>2026-03-21T02:39:52.848828+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -703,13 +703,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798184852</id>
-    <title>Androidアプリ開発のためのセキュリティ入門  体験して学ぶ16の脆弱性とその対策</title>
-    <updated>2026-02-01T11:11:22.410472+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798184852"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798190914</id>
     <title>システムの引き継ぎに失敗しないための本  担当者の交代、ベンダー変更、アウトソーシング化に対応できる！</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
@@ -840,6 +833,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>アジャイル はじめの一歩  スッキリわかるアジャイルの基本と役立て方</title>
     <updated>2026-03-19T02:55:38.458310+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798194264"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798192550</id>
+    <title>クイズで学ぶUIデザイン  ユーザビリティの基本が身につく50問</title>
+    <updated>2026-03-21T02:39:52.848384+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798192550"/>
     <summary>翔泳社</summary>
   </entry>
 </feed>
