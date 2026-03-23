@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-23T15:58:43.969335+00:00</updated>
+  <updated>2026-03-23T17:02:50.559862+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -18,5 +18,12 @@
     <updated>2026-03-23T14:12:02+00:00</updated>
     <link href="https://github.com/fastapi/fastapi/releases/tag/0.135.2"/>
     <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/TypeScript/releases/tag/v6.0.2</id>
+    <title>[microsoft/TypeScript] TypeScript 6.0</title>
+    <updated>2026-03-23T16:19:31+00:00</updated>
+    <link href="https://github.com/microsoft/TypeScript/releases/tag/v6.0.2"/>
+    <summary>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</summary>
   </entry>
 </feed>
