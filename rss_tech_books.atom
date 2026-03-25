@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-03-24T02:48:21.717110+00:00</updated>
+  <updated>2026-03-25T02:52:47.811873+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -703,13 +703,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798190914</id>
-    <title>システムの引き継ぎに失敗しないための本  担当者の交代、ベンダー変更、アウトソーシング化に対応できる！</title>
-    <updated>2026-02-01T11:11:22.410472+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798190914"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798192123</id>
     <title>実務で役立つ ログの教科書  基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
@@ -840,6 +833,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>クイズで学ぶUIデザイン  ユーザビリティの基本が身につく50問</title>
     <updated>2026-03-21T02:39:52.848384+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798192550"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798191935</id>
+    <title>Python1年生 追加授業 もっと知りたい！プログラミングのしくみ  体験してわかる！会話でまなべる！</title>
+    <updated>2026-03-25T02:52:47.811256+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798191935"/>
     <summary>翔泳社</summary>
   </entry>
 </feed>
