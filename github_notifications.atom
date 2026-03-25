@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-25T04:52:53.753284+00:00</updated>
+  <updated>2026-03-25T06:00:16.871681+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -11,47 +11,5 @@
     <updated>2026-03-22T23:33:15+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.5"/>
     <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/fastapi/fastapi/releases/tag/0.135.2</id>
-    <title>[fastapi/fastapi] 0.135.2</title>
-    <updated>2026-03-23T14:12:02+00:00</updated>
-    <link href="https://github.com/fastapi/fastapi/releases/tag/0.135.2"/>
-    <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/TypeScript/releases/tag/v6.0.2</id>
-    <title>[microsoft/TypeScript] TypeScript 6.0</title>
-    <updated>2026-03-23T16:19:31+00:00</updated>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v6.0.2"/>
-    <summary>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/uv/releases/tag/0.11.0</id>
-    <title>[astral-sh/uv] 0.11.0</title>
-    <updated>2026-03-23T22:08:47+00:00</updated>
-    <link href="https://github.com/astral-sh/uv/releases/tag/0.11.0"/>
-    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.6</id>
-    <title>[vercel/next.js] v16.2.1-canary.6</title>
-    <updated>2026-03-23T23:34:21+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.6"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.7</id>
-    <title>[vercel/next.js] v16.2.1-canary.7</title>
-    <updated>2026-03-24T23:05:20+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.7"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/uv/releases/tag/0.11.1</id>
-    <title>[astral-sh/uv] 0.11.1</title>
-    <updated>2026-03-24T23:17:49+00:00</updated>
-    <link href="https://github.com/astral-sh/uv/releases/tag/0.11.1"/>
-    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
   </entry>
 </feed>
