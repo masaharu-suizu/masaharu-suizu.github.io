@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-03-31T20:40:59.000845+00:00</updated>
+  <updated>2026-03-31T21:37:40.631802+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -74,5 +74,33 @@
     <updated>2026-03-31T19:54:14+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.15"/>
     <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v6.4.36</id>
+    <title>[symfony/symfony] v6.4.36</title>
+    <updated>2026-03-31T20:43:23+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v6.4.36"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/laravel/laravel/releases/tag/v13.1.2</id>
+    <title>[laravel/laravel] v13.1.2</title>
+    <updated>2026-03-31T20:43:37+00:00</updated>
+    <link href="https://github.com/laravel/laravel/releases/tag/v13.1.2"/>
+    <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v7.4.8</id>
+    <title>[symfony/symfony] v7.4.8</title>
+    <updated>2026-03-31T21:11:57+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v7.4.8"/>
+    <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony/releases/tag/v8.0.8</id>
+    <title>[symfony/symfony] v8.0.8</title>
+    <updated>2026-03-31T21:32:18+00:00</updated>
+    <link href="https://github.com/symfony/symfony/releases/tag/v8.0.8"/>
+    <summary>The Symfony PHP framework</summary>
   </entry>
 </feed>
