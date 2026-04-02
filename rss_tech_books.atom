@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-04-01T03:33:12.743452+00:00</updated>
+  <updated>2026-04-02T03:15:55.903473+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://gihyo.jp/book/2020/978-4-297-11125-0</id>
-    <title>［改訂新版］jQueryポケットリファレンス</title>
-    <updated>2026-02-07T05:46:04.949150+00:00</updated>
-    <link href="https://gihyo.jp/book/2020/978-4-297-11125-0"/>
-    <summary>技術評論社</summary>
-  </entry>
   <entry>
     <id>https://gihyo.jp/book/2020/978-4-297-11496-1</id>
     <title>改訂3版 Javaポケットリファレンス</title>
@@ -97,6 +90,13 @@
     <summary>技術評論社</summary>
   </entry>
   <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15545-2</id>
+    <title>［改訂第4版］Linuxコマンドポケットリファレンス</title>
+    <updated>2026-04-02T03:15:55.902812+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15545-2"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
     <id>https://gihyo.jp/book/2022/978-4-297-12560-8</id>
     <title>ディープラーニングを支える技術—&amp;#8288;—「&amp;#8288;正解」を導くメカニズム［技術基礎］</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
@@ -171,6 +171,13 @@
     <title>データを見る力・見せる技術 分析・可視化のための基本×速習ハンズオン［データ可視化技術入門・上巻］</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-15271-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15579-7</id>
+    <title>［改訂新版］macOS×コマンド入門　ターミナルとコマンドライン、基本の力</title>
+    <updated>2026-04-02T03:15:55.902812+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15579-7"/>
     <summary>技術評論社</summary>
   </entry>
   <entry>
@@ -458,13 +465,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://gihyo.jp/book/2024/978-4-297-14337-4</id>
-    <title>AWSクラウドネイティブデザインパターン</title>
-    <updated>2026-02-07T05:46:04.949150+00:00</updated>
-    <link href="https://gihyo.jp/book/2024/978-4-297-14337-4"/>
-    <summary>技術評論社</summary>
-  </entry>
-  <entry>
     <id>https://gihyo.jp/book/2024/978-4-297-14413-5</id>
     <title>Rustで学ぶWebAssembly―&amp;#8288;―入門からコンポーネントモデルによる開発まで</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
@@ -546,6 +546,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>作って学ぶAIエージェント─&amp;#8288;─TypeScriptとLLMで切り拓くAI時代のエンジニアリング</title>
     <updated>2026-03-07T02:36:17.857566+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-15565-0"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15573-5</id>
+    <title>MLflowで実践するLLMOps―&amp;#8288;―生成AIアプリケーションの実験管理と品質保証</title>
+    <updated>2026-04-02T03:15:55.902812+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15573-5"/>
     <summary>技術評論社</summary>
   </entry>
   <entry>
