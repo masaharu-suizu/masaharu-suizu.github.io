@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-04-02T03:15:55.903473+00:00</updated>
+  <updated>2026-04-03T03:18:02.086252+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -178,6 +178,13 @@
     <title>［改訂新版］macOS×コマンド入門　ターミナルとコマンドライン、基本の力</title>
     <updated>2026-04-02T03:15:55.902812+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-15579-7"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15499-8</id>
+    <title>［エンジニアのための］データ分析基盤入門＜実践編＞　主要プロダクトに共通する理論×技術クラウド＆オンプレ対応</title>
+    <updated>2026-04-03T03:18:02.085571+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15499-8"/>
     <summary>技術評論社</summary>
   </entry>
   <entry>
