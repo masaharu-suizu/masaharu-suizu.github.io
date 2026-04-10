@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-04-09T03:17:41.119827+00:00</updated>
+  <updated>2026-04-10T03:31:41.961822+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -717,13 +717,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798190082</id>
-    <title>システム設計・データ活用のためのデータモデル入門  ビジネスを飛躍させる概念データモデルの理解</title>
-    <updated>2026-02-01T11:11:22.410472+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798190082"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798192956</id>
     <title>Microsoft Power Apps 入門 第2版</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
@@ -854,6 +847,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>Exercise C  プログラマ脳を鍛える至高の問題集</title>
     <updated>2026-03-26T03:17:55.717874+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798190242"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798194288</id>
+    <title>AI革命はどこへ向かうのか？  「AIをつくった人たち」の証言から読み解く未来</title>
+    <updated>2026-04-10T03:31:41.961144+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798194288"/>
     <summary>翔泳社</summary>
   </entry>
 </feed>
