@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-04-16T21:41:52.155174+00:00</updated>
+  <updated>2026-04-16T22:38:33.431938+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -186,5 +186,12 @@
     <updated>2026-04-16T12:07:06+00:00</updated>
     <link href="https://github.com/vercel/next.js/releases/tag/v16.2.1-canary.45"/>
     <summary>The React Framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/setup-uv/releases/tag/v8.1.0</id>
+    <title>[astral-sh/setup-uv] v8.1.0 🌈 New input `no-project`</title>
+    <updated>2026-04-16T22:02:01+00:00</updated>
+    <link href="https://github.com/astral-sh/setup-uv/releases/tag/v8.1.0"/>
+    <summary>Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/</summary>
   </entry>
 </feed>
