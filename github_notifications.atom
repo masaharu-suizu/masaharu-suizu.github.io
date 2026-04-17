@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-04-17T21:51:00.722877+00:00</updated>
+  <updated>2026-04-17T22:37:37.928535+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://github.com/facebook/react/releases/tag/v19.2.5</id>
+    <title>[facebook/react] 19.2.5 (April 8th, 2026)</title>
+    <updated>2026-04-08T18:49:41+00:00</updated>
+    <link href="https://github.com/facebook/react/releases/tag/v19.2.5"/>
+    <summary>The library for web and native user interfaces.</summary>
+  </entry>
   <entry>
     <id>https://github.com/facebook/react/releases/tag/v19.0.5</id>
     <title>[facebook/react] 19.0.5 (April 8th, 2026)</title>
