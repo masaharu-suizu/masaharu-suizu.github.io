@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-04-19T02:35:20.068343+00:00</updated>
+  <updated>2026-04-19T05:27:53.021102+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://github.com/anchore/syft/releases/tag/v1.42.4</id>
+    <title>[anchore/syft] v1.42.4</title>
+    <updated>2026-04-08T20:47:19+00:00</updated>
+    <link href="https://github.com/anchore/syft/releases/tag/v1.42.4"/>
+    <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
+  </entry>
   <entry>
     <id>https://github.com/anchore/grype/releases/tag/v0.111.0</id>
     <title>[anchore/grype] v0.111.0</title>
