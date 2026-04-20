@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-04-19T03:40:08.244675+00:00</updated>
+  <updated>2026-04-20T03:41:30.175109+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -557,7 +557,7 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
   </entry>
   <entry>
     <id>https://gihyo.jp/book/2026/978-4-297-15573-5</id>
-    <title>MLflowで実践するLLMOp s―&amp;#8288;―生成AIアプリケーションの実験管理と品質保証</title>
+    <title>MLflowで実践するLLMOps―&amp;#8288;―生成AIアプリケーションの実験管理と品質保証</title>
     <updated>2026-04-02T03:15:55.902812+00:00</updated>
     <link href="https://gihyo.jp/book/2026/978-4-297-15573-5"/>
     <summary>技術評論社</summary>
