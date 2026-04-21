@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-04-21T13:24:22.626841+00:00</updated>
+  <updated>2026-04-21T15:11:27.473349+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://github.com/laravel/laravel/releases/tag/v13.3.0</id>
+    <title>[laravel/laravel] v13.3.0</title>
+    <updated>2026-04-21T14:20:23+00:00</updated>
+    <link href="https://github.com/laravel/laravel/releases/tag/v13.3.0"/>
+    <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
+  </entry>
 </feed>
