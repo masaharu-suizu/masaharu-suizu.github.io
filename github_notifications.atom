@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-04-22T15:11:44.119669+00:00</updated>
+  <updated>2026-04-22T16:58:58.863286+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -11,5 +11,12 @@
     <updated>2026-04-21T14:20:23+00:00</updated>
     <link href="https://github.com/laravel/laravel/releases/tag/v13.3.0"/>
     <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft/releases/tag/v1.43.0</id>
+    <title>[anchore/syft] v1.43.0</title>
+    <updated>2026-04-22T16:00:17+00:00</updated>
+    <link href="https://github.com/anchore/syft/releases/tag/v1.43.0"/>
+    <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
   </entry>
 </feed>
