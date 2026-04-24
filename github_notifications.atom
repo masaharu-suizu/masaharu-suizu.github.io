@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-04-24T15:06:48.578031+00:00</updated>
+  <updated>2026-04-24T16:55:05.219943+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -11,12 +11,5 @@
     <updated>2026-04-23T16:49:46+00:00</updated>
     <link href="https://github.com/fastapi/fastapi/releases/tag/0.136.1"/>
     <summary>FastAPI framework, high performance, easy to learn, fast to code, ready for production</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/oven-sh/bun/releases/tag/freebsd-smoke-test-1777016712</id>
-    <title>[oven-sh/bun] FreeBSD smoke test artifact (temporary)</title>
-    <updated>2026-04-24T07:45:45+00:00</updated>
-    <link href="https://github.com/oven-sh/bun/releases/tag/freebsd-smoke-test-1777016712"/>
-    <summary>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
   </entry>
 </feed>
