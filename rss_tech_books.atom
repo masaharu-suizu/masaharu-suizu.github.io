@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-04-28T03:55:00.381348+00:00</updated>
+  <updated>2026-04-29T03:52:02.154275+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -837,7 +837,7 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
   </entry>
   <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798194288</id>
-    <title>AI革命はどこへ向かうのか？  「AIをつくった人たち」の証言から読み解く未来</title>
+    <title>AIは世界をどう変えるのか？  「AIをつくった人たち」の証言から読み解く未来</title>
     <updated>2026-04-10T03:31:41.961144+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798194288"/>
     <summary>翔泳社</summary>
