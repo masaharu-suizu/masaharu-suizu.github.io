@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-05-01T16:58:50.475813+00:00</updated>
+  <updated>2026-05-01T18:03:42.997000+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -74,5 +74,12 @@
     <updated>2026-05-01T08:15:13+00:00</updated>
     <link href="https://github.com/symfony/symfony/releases/tag/v8.0.9"/>
     <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft/releases/tag/v1.44.0</id>
+    <title>[anchore/syft] v1.44.0</title>
+    <updated>2026-05-01T17:17:51+00:00</updated>
+    <link href="https://github.com/anchore/syft/releases/tag/v1.44.0"/>
+    <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
   </entry>
 </feed>
