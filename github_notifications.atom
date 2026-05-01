@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-05-01T18:03:42.997000+00:00</updated>
+  <updated>2026-05-01T20:02:58.301215+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -81,5 +81,12 @@
     <updated>2026-05-01T17:17:51+00:00</updated>
     <link href="https://github.com/anchore/syft/releases/tag/v1.44.0"/>
     <summary>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/grype/releases/tag/v0.112.0</id>
+    <title>[anchore/grype] v0.112.0</title>
+    <updated>2026-05-01T19:12:58+00:00</updated>
+    <link href="https://github.com/anchore/grype/releases/tag/v0.112.0"/>
+    <summary>A vulnerability scanner for container images and filesystems</summary>
   </entry>
 </feed>
