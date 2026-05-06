@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-05-06T16:26:14.472229+00:00</updated>
+  <updated>2026-05-06T18:15:10.329376+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -165,5 +165,26 @@
     <updated>2026-05-06T14:31:19+00:00</updated>
     <link href="https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1"/>
     <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react/releases/tag/v19.1.7</id>
+    <title>[facebook/react] 19.1.7 (May 6th, 2026)</title>
+    <updated>2026-05-06T16:27:59+00:00</updated>
+    <link href="https://github.com/facebook/react/releases/tag/v19.1.7"/>
+    <summary>The library for web and native user interfaces.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react/releases/tag/v19.0.6</id>
+    <title>[facebook/react] 19.0.6 (May 6th, 2026)</title>
+    <updated>2026-05-06T16:27:56+00:00</updated>
+    <link href="https://github.com/facebook/react/releases/tag/v19.0.6"/>
+    <summary>The library for web and native user interfaces.</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react/releases/tag/v19.2.6</id>
+    <title>[facebook/react] 19.2.6 (May 6th, 2026)</title>
+    <updated>2026-05-06T16:28:05+00:00</updated>
+    <link href="https://github.com/facebook/react/releases/tag/v19.2.6"/>
+    <summary>The library for web and native user interfaces.</summary>
   </entry>
 </feed>
