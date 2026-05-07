@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-05-07T16:48:26.016263+00:00</updated>
+  <updated>2026-05-07T18:22:31.552339+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -234,6 +234,20 @@
     <title>[php/php-src] PHP 8.3.31</title>
     <updated>2026-05-07T15:02:50+00:00</updated>
     <link href="https://github.com/php/php-src/releases/tag/php-8.3.31"/>
+    <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.4.21</id>
+    <title>[php/php-src] PHP 8.4.21</title>
+    <updated>2026-05-07T17:18:28+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.4.21"/>
+    <summary>The PHP Interpreter</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src/releases/tag/php-8.2.31</id>
+    <title>[php/php-src] PHP 8.2.31</title>
+    <updated>2026-05-07T17:19:03+00:00</updated>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.2.31"/>
     <summary>The PHP Interpreter</summary>
   </entry>
 </feed>
