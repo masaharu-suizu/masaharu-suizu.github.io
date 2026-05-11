@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-05-11T03:26:08.195392+00:00</updated>
+  <updated>2026-05-11T07:39:03.901923+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://github.com/astral-sh/uv/releases/tag/0.11.8</id>
+    <title>[astral-sh/uv] 0.11.8</title>
+    <updated>2026-04-27T13:18:37+00:00</updated>
+    <link href="https://github.com/astral-sh/uv/releases/tag/0.11.8"/>
+    <summary>An extremely fast Python package and project manager, written in Rust.</summary>
+  </entry>
   <entry>
     <id>https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.3</id>
     <title>[vercel/next.js] v16.3.0-canary.3</title>
