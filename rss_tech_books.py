@@ -145,5 +145,5 @@ if __name__ == "__main__":
         entry_tag.summary(book.get("summary"))
 
     atom_feed = fg.atom_str(pretty=True)
-    with open("rss_tech_books.atom", "wb") as atom_file:
+    with open("./rss/rss_tech_books.atom", "wb") as atom_file:
         atom_file.write(atom_feed)
