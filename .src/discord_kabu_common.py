@@ -15,7 +15,7 @@ def get_env(name: str) -> str:
     return value
 
 
-DISCORD_WEBHOOK_URL = get_env("DISCORD_WEBHOOK_URL")
+DISCORD_WEBHOOK_URL = get_env("DISCORD_WEBHOOK")
 PRICES_JSON_BASE64 = get_env("KABU_PRICES_JSON_BASE64")
 
 
