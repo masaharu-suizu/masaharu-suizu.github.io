@@ -112,7 +112,7 @@ def build_feed(entries: Iterable[Dict[str, str]]) -> FeedGenerator:
     return fg
 
 
-def write_atom_feed(feed: FeedGenerator, output_path: str = "github_notifications.atom") -> None:
+def write_atom_feed(feed: FeedGenerator, output_path: str = "./rss/github_notifications.atom") -> None:
     """Write the Atom feed to disk."""
     atom_feed = feed.atom_str(pretty=True)
     with open(output_path, "wb") as atom_file:
