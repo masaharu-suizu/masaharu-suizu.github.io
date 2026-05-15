@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-05-14T10:35:36.383156+00:00</updated>
+  <updated>2026-05-15T04:08:36.167063+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -717,13 +717,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798187983</id>
-    <title>サイバー忍者入門  忍者・スパイ・軍隊・ハッカーに学ぶ フルスタック・ハッキング</title>
-    <updated>2026-02-01T11:11:22.410472+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798187983"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798193403</id>
     <title>ChatGPTはどのように動いているのか？</title>
     <updated>2026-02-01T11:11:22.410472+00:00</updated>
@@ -854,6 +847,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>自分専用のAIで探す・覚える時間をゼロにする  Google NotebookLM仕事術</title>
     <updated>2026-05-09T03:44:57.459139+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798197807"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798196336</id>
+    <title>セキュアAPI  設計・構築・実装を貫く原則</title>
+    <updated>2026-05-15T04:08:36.166383+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798196336"/>
     <summary>翔泳社</summary>
   </entry>
 </feed>
