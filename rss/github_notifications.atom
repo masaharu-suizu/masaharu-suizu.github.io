@@ -2,56 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking OSS Releases [masaharu-suizu]</title>
-  <updated>2026-05-16T05:53:44.369403+00:00</updated>
+  <updated>2026-05-16T08:02:28.293293+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://github.com/laravel/laravel/releases/tag/v13.6.0</id>
-    <title>[laravel/laravel] v13.6.0</title>
-    <updated>2026-05-13T15:54:17+00:00</updated>
-    <link href="https://github.com/laravel/laravel/releases/tag/v13.6.0"/>
-    <summary>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/symfony/symfony/releases/tag/v6.4.39</id>
-    <title>[symfony/symfony] v6.4.39</title>
-    <updated>2026-05-13T17:55:45+00:00</updated>
-    <link href="https://github.com/symfony/symfony/releases/tag/v6.4.39"/>
-    <summary>The Symfony PHP framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/symfony/symfony/releases/tag/v7.4.11</id>
-    <title>[symfony/symfony] v7.4.11</title>
-    <updated>2026-05-13T18:07:11+00:00</updated>
-    <link href="https://github.com/symfony/symfony/releases/tag/v7.4.11"/>
-    <summary>The Symfony PHP framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/symfony/symfony/releases/tag/v8.0.11</id>
-    <title>[symfony/symfony] v8.0.11</title>
-    <updated>2026-05-13T18:23:43+00:00</updated>
-    <link href="https://github.com/symfony/symfony/releases/tag/v8.0.11"/>
-    <summary>The Symfony PHP framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2</id>
-    <title>[symfony/symfony] v8.1.0-BETA2</title>
-    <updated>2026-05-13T18:41:47+00:00</updated>
-    <link href="https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2"/>
-    <summary>The Symfony PHP framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.20</id>
-    <title>[vercel/next.js] v16.3.0-canary.20</title>
-    <updated>2026-05-15T16:00:51+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.20"/>
-    <summary>The React Framework</summary>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.21</id>
-    <title>[vercel/next.js] v16.3.0-canary.21</title>
-    <updated>2026-05-15T23:59:40+00:00</updated>
-    <link href="https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.21"/>
-    <summary>The React Framework</summary>
-  </entry>
 </feed>
