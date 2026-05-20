@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-05-19T04:17:00.399072+00:00</updated>
+  <updated>2026-05-20T04:17:55.006099+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -787,6 +787,13 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <summary>翔泳社</summary>
   </entry>
   <entry>
+    <id>https://www.shoeisha.co.jp/book/detail/9784798190242</id>
+    <title>Exercise C  プログラマ脳を鍛える至高の問題集</title>
+    <updated>2026-03-26T03:17:55.717874+00:00</updated>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798190242"/>
+    <summary>翔泳社</summary>
+  </entry>
+  <entry>
     <id>https://www.shoeisha.co.jp/book/detail/9784798194264</id>
     <title>アジャイル はじめの一歩  スッキリわかるアジャイルの基本と役立て方</title>
     <updated>2026-03-19T02:55:38.458310+00:00</updated>
@@ -812,13 +819,6 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>Python1年生 追加授業 もっと知りたい！プログラミングのしくみ  体験してわかる！会話でまなべる！</title>
     <updated>2026-03-25T02:52:47.811256+00:00</updated>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798191935"/>
-    <summary>翔泳社</summary>
-  </entry>
-  <entry>
-    <id>https://www.shoeisha.co.jp/book/detail/9784798190242</id>
-    <title>Exercise C  プログラマ脳を鍛える至高の問題集</title>
-    <updated>2026-03-26T03:17:55.717874+00:00</updated>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798190242"/>
     <summary>翔泳社</summary>
   </entry>
   <entry>
