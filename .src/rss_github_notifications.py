@@ -92,7 +92,7 @@ def build_feed(entries: Iterable[Dict[str, str]]) -> FeedGenerator:
     """Create an Atom feed from feed entries."""
     fg = FeedGenerator()
     fg.id("https://github.com/notifications")
-    fg.title("Tracking OSS Releases [masaharu-suizu]")
+    fg.title("Tracking GitHub notifications")
     fg.link(href="https://github.com/notifications", rel="alternate")
     fg.language("en")
 
