@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://masaharu-suizu.github.io/rss_tech_books.atom</id>
   <title>Tracking tech books [masaharu-suizu]</title>
-  <updated>2026-05-22T04:20:31.530365+00:00</updated>
+  <updated>2026-05-23T03:59:02.269576+00:00</updated>
   <link href="https://masaharu-suizu.github.io/rss_tech_books.atom" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -279,14 +279,6 @@
     <summary>技術評論社</summary>
   </entry>
   <entry>
-    <id>https://gihyo.jp/book/2021/978-4-297-12056-6</id>
-    <title>最短突破
-情報セキュリティ管理士 認定試験 公式テキスト</title>
-    <updated>2026-02-07T05:46:04.949150+00:00</updated>
-    <link href="https://gihyo.jp/book/2021/978-4-297-12056-6"/>
-    <summary>技術評論社</summary>
-  </entry>
-  <entry>
     <id>https://gihyo.jp/book/2021/978-4-297-12054-2</id>
     <title>最短突破
 情報セキュリティ初級 認定試験 公式テキスト</title>
@@ -378,6 +370,14 @@ Ruby技術者認定試験（Silver/Gold対応&amp;#8288;）&amp;#8288; 公式テ
     <title>AWS認定AIプラクティショナー 合格対策テキスト＋問題集</title>
     <updated>2026-02-07T05:46:04.949150+00:00</updated>
     <link href="https://gihyo.jp/book/2025/978-4-297-14772-3"/>
+    <summary>技術評論社</summary>
+  </entry>
+  <entry>
+    <id>https://gihyo.jp/book/2026/978-4-297-15648-0</id>
+    <title>最短突破
+データサイエンティスト検定（リテラシーレベル）公式リファレンスブック 第4版</title>
+    <updated>2026-05-23T03:59:02.268911+00:00</updated>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15648-0"/>
     <summary>技術評論社</summary>
   </entry>
   <entry>
