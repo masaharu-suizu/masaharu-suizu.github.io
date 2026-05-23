@@ -1,0 +1,31 @@
+name: Bluesky bot
+
+on:
+  # 手動実行を許可
+  workflow_dispatch:
+  # 定刻に実行
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: "latest"
+
+      - name: Setup dependencies
+        run: uv sync --locked
+
+      - name: Run python script for Bluesky bot
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+        run: |
+          uv run ./src/bsky_bot.py
