@@ -1,0 +1,42 @@
+name: Generate RSS files
+
+permissions:
+  contents: write
+
+on:
+  # 手動実行を許可
+  workflow_dispatch:
+  # 毎時実行
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+
+      - name: Sync dependencies
+        run: uv sync
+
+      - name: Generate RSS files
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: |
+          uv run ./.src/rss_*.py
+
+      - name: Do Git push RSS files to GitHub
+        env:
+          GIT_USER_NAME: "${{ secrets.GIT_USER_NAME }}"
+          GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
+        run: |
+          git config user.name "${GIT_USER_NAME}"
+          git config user.email "${GIT_EMAIL}"
+          git add ./rss/*.atom ./.data/tech_books.json
+          git commit -m "Update RSS files by CI." || { echo "No changes to commit"; exit 0; }
+          git push https://x-access-token:${{ secrets.TOKEN_FOR_WRITE }}@github.com/${{ github.actor }}/${{ github.actor }}.github.io.git main

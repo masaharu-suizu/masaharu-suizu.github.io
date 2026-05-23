@@ -130,9 +130,9 @@ if __name__ == "__main__":
 
     # generate atom feed
     fg = FeedGenerator()
-    fg.id("https://masaharu-suizu.github.io/rss_tech_books.atom")
-    fg.title("Tracking tech books [masaharu-suizu]")
-    fg.link(href="https://masaharu-suizu.github.io/rss_tech_books.atom", rel="alternate")
+    fg.id("https://github.com/notifications")
+    fg.title("Tracking tech books")
+    fg.link(href="https://github.com/notifications", rel="alternate")
     fg.language("ja")
 
     for book in books:
@@ -145,5 +145,5 @@ if __name__ == "__main__":
         entry_tag.summary(book.get("summary"))
 
     atom_feed = fg.atom_str(pretty=True)
-    with open("./rss/rss_tech_books.atom", "wb") as atom_file:
+    with open("./rss/tech_books.atom", "wb") as atom_file:
         atom_file.write(atom_feed)
