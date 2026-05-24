@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # 定刻に実行
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   generate:
@@ -23,7 +23,7 @@ jobs:
       - name: Setup dependencies
         run: uv sync --locked
 
-      - name: Run python script for Bluesky bot
+      - name: Run Bluesky bot script
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
