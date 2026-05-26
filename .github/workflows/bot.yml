@@ -1,4 +1,4 @@
-name: Bluesky bot
+name: Bot runner
 
 on:
   # 手動実行を許可
@@ -23,7 +23,7 @@ jobs:
       - name: Setup dependencies
         run: uv sync --locked
 
-      - name: Run Bluesky bot script
+      - name: Run Bluesky Bot
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
@@ -31,4 +31,4 @@ jobs:
           TANITA_CLIENT_SECRET: ${{ secrets.TANITA_CLIENT_SECRET }}
           TANITA_REFRESH_TOKEN: ${{ secrets.TANITA_REFRESH_TOKEN }}
         run: |
-          uv run ./.src/bsky_bot.py
+          uv run ./.src/bot_bsky.py
