@@ -152,7 +152,7 @@ def tanita_weight_bot_message() -> str:
         fat = latest_values.get("体脂肪率", "データなし")
 
         # Blueskyに投稿するメッセージの生成
-        return f"昨日、体組成計で計ったら、\n- 体重: {weight}\n- 体脂肪率: {fat}\n({latest_time} 測定)\nでした。"
+        return f"昨日、体組成計で計ったら、\n- 体重: {weight}\n- 体脂肪率: {fat}\n({latest_time} 測定)\nでした。ちなみに私の身長は175cmです。"
 
     except Exception as e:
         # ボット全体の停止を防ぐため、エラー時はログ出力に留めて空文字を返す
