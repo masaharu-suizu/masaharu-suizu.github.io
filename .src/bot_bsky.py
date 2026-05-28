@@ -64,7 +64,7 @@ def holiday_bot_message(target_date: date) -> str:
     if not holiday_name:
         return ""
 
-    return f"今日は祝日「{holiday_name}」です。ゆっくり過ごしましょう！"
+    return f"今日は祝日「{holiday_name}」です。ゆっくり過ごしましょう！\n（この投稿は自動投稿です。）"
 
 
 def premium_friday_bot_message(target_date: date) -> str:
@@ -72,7 +72,32 @@ def premium_friday_bot_message(target_date: date) -> str:
     if not is_premium_friday(target_date):
         return ""
 
-    return "皆さん今日は月末金曜です。プレミアムフライデー、覚えていますか？ 仕事を早く切り上げて、ゆっくり過ごしましょう！"
+    return "皆さん今日は月末金曜です。プレミアムフライデー、覚えていますか？ 仕事を早く切り上げて、ゆっくり過ごしましょう！\n（この投稿は自動投稿です。）"
+
+
+def haiku_bot_message() -> str:
+    """haiku.logから最新の俳句を取得してボットメッセージを生成する。"""
+    log_path = ".data/haiku.log"
+
+    # ファイルが存在しない場合は空文字を返す
+    if not os.path.exists(log_path):
+        return ""
+
+    try:
+        with open(log_path, "r", encoding="utf-8") as f:
+            # 空行を除外して行のリストを取得
+            lines = [line.strip() for line in f if line.strip()]
+
+        if not lines:
+            return ""
+
+        # 最後の行（最新の俳句）を取得
+        latest_haiku = lines[-1]
+        return f"今日の一句\n{latest_haiku}\n（この俳句はAIが生成したものを自動投稿しています。）"
+
+    except Exception as e:
+        print(f"俳句データ取得中にエラーが発生しました: {e}", file=sys.stderr)
+        return ""
 
 
 def get_tanita_access_token() -> str:
@@ -152,7 +177,7 @@ def tanita_weight_bot_message() -> str:
         fat = latest_values.get("体脂肪率", "データなし")
 
         # Blueskyに投稿するメッセージの生成
-        return f"昨日、体組成計で計ったら、\n- 体重: {weight}\n- 体脂肪率: {fat}\n({latest_time} 測定)\nでした。ちなみに私の身長は175cmです。"
+        return f"昨日、体組成計で計ったら、\n- 体重: {weight}\n- 体脂肪率: {fat}\n({latest_time} 測定)\nでした。ちなみに私の身長は175cmです。\n（この投稿は自動投稿です。）"
 
     except Exception as e:
         # ボット全体の停止を防ぐため、エラー時はログ出力に留めて空文字を返す
@@ -166,6 +191,7 @@ def build_bot_messages(target_date: date) -> list[str]:
         holiday_bot_message(target_date),
         premium_friday_bot_message(target_date),
         tanita_weight_bot_message(),
+        haiku_bot_message(),
     ]
     # 空文字を除外してリストを返す
     return [msg for msg in candidates if msg]
