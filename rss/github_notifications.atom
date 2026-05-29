@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/notifications</id>
   <title>Tracking GitHub notifications</title>
-  <updated>2026-05-29T19:33:08.346558+00:00</updated>
+  <updated>2026-05-29T21:54:20.349543+00:00</updated>
   <link href="https://github.com/notifications" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -39,5 +39,12 @@
     <updated>2026-05-29T08:54:19+00:00</updated>
     <link href="https://github.com/symfony/symfony/releases/tag/v8.1.0"/>
     <summary>The Symfony PHP framework</summary>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.34</id>
+    <title>[vercel/next.js] v16.3.0-canary.34</title>
+    <updated>2026-05-29T20:42:06+00:00</updated>
+    <link href="https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.34"/>
+    <summary>The React Framework</summary>
   </entry>
 </feed>
